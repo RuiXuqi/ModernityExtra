@@ -1,0 +1,13 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+	   "model": "torcherino:blockdoublecompressedlanterino"
+	},
+    "variants": {
+        "facing=north": { "y": 0},
+        "facing=east":  { "y": 90 },
+        "facing=south": { "y": 180 },
+        "facing=west":  { "y": 270 },
+        "inventory": { "model": "torcherino:blockdoublecompressedlanterino" }
+    }
+}

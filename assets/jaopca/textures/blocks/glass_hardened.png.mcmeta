@@ -1,0 +1,9 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "textures":[
+            "jaopca:blocks/glass_hardened_ctm"
+        ]
+    }
+}

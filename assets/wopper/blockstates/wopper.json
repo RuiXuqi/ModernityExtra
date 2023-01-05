@@ -1,0 +1,25 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "wopper:wopper_side",
+    "textures": {
+      "bottom": "wopper:blocks/wopper_bottom",
+      "inside": "wopper:blocks/wopper_inside",
+      "side": "wopper:blocks/wopper_side",
+      "top": "wopper:blocks/wopper_top"
+    },
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "inventory": [{ "model": "wopper:wopper" }],
+    "facing": {
+      "down": {
+        "model": "wopper:wopper_down"
+      },
+      "north": {},
+      "south": { "y": 180 },
+      "east": { "y": 90 },
+      "west": { "y": 270 }
+    }
+  }
+}

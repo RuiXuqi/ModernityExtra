@@ -1,0 +1,15 @@
+{
+    "parent": "block/orientable",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        }
+    },
+    "textures": {
+        "top": "torcherino:blocks/compressed_lanterino_top",
+        "front": "torcherino:blocks/compressed_lanterino",
+        "side": "torcherino:blocks/compressed_lanterino_side"
+    }
+}

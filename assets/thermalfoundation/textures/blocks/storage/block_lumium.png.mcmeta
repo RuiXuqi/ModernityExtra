@@ -1,0 +1,9 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "textures":[
+            "thermalfoundation:blocks/storage/block_lumium_ctm"
+        ]
+    }
+}
