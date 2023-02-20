@@ -1,0 +1,17 @@
+{
+  "parent": "botania:block/shapes/pool_creative",
+  "textures": {
+    "bottom": "botania:blocks/pool_infinite_bottom",
+    "inside": "botania:blocks/pool_infinite_inside",
+    "side": "botania:blocks/pool_infinite_side",
+    "top": "botania:blocks/pool_infinite_top"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "botania:full": 1
+      },
+      "model": "botania:block/pool_creative_full"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "botania:block/shapes/cube_column_directional",
+  "textures": {
+    "bottom": "botania:blocks/biomestone20_bottom",
+    "side": "botania:blocks/biomestone20",
+    "top": "botania:blocks/biomestone20_top_1"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "half=bottom": [
+      {
+        "model": "botania:metamorphic/forest_brick_slab",
+        "weight": 5
+      },
+      {
+        "model": "botania:metamorphic/forest_brick_slab_1"
+      }
+    ],
+    "half=top": [
+      {
+        "model": "botania:metamorphic/forest_brick_slab_top",
+        "weight": 5
+      },
+      {
+        "model": "botania:metamorphic/forest_brick_slab_top_1"
+      }
+    ]
+  }
+}

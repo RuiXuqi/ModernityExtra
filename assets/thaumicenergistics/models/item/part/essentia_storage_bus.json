@@ -1,0 +1,47 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "appliedenergistics2:item/part/part",
+	"textures": {
+		"sides": "appliedenergistics2:parts/storage_bus_sides",
+		"back": "appliedenergistics2:parts/storage_bus_back",
+		"front": "thaumicenergistics:part/essentia_storage_bus_face"
+	},
+	"elements": [
+		{
+			"from": [3, 3, 6],
+			"to": [13, 13, 7],
+			"faces": {
+				"north": {"uv": [3, 3, 13, 13], "texture": "#front"},
+				"east": {"uv": [3, 3, 4, 13], "texture": "#front"},
+				"south": {"uv": [3, 3, 13, 13], "texture": "#back"},
+				"west": {"uv": [12, 3, 13, 13], "texture": "#front"},
+				"up": {"uv": [13, 3, 3, 4], "texture": "#front"},
+				"down": {"uv": [13, 12, 3, 13], "texture": "#front"}
+			}
+		},
+		{
+			"from": [2, 2, 7],
+			"to": [14, 14, 8],
+			"faces": {
+				"north": {"uv": [2, 2, 14, 14], "texture": "#front"},
+				"east": {"uv": [8, 2, 9, 14], "texture": "#sides"},
+				"south": {"uv": [2, 2, 14, 14], "texture": "#back"},
+				"west": {"uv": [7, 2, 8, 14], "texture": "#sides"},
+				"up": {"uv": [2, 7, 14, 8], "texture": "#sides"},
+				"down": {"uv": [2, 8, 14, 9], "texture": "#sides"}
+			}
+		},
+		{
+			"from": [5, 5, 8],
+			"to": [11, 11, 10],
+			"faces": {
+				"north": {"uv": [5, 5, 11, 11], "texture": "#missing"},
+				"east": {"uv": [6, 5, 8, 11], "texture": "#sides"},
+				"south": {"uv": [5, 5, 11, 11], "texture": "#back"},
+				"west": {"uv": [8, 5, 10, 11], "texture": "#sides"},
+				"up": {"uv": [5, 8, 11, 10], "texture": "#sides"},
+				"down": {"uv": [5, 6, 11, 8], "texture": "#sides"}
+			}
+		}
+	]
+}

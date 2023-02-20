@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "botania:metamorphic/mountain_stone",
+        "weight": 5
+      },
+      {
+        "model": "botania:metamorphic/mountain_stone_1"
+      }
+    ]
+  }
+}

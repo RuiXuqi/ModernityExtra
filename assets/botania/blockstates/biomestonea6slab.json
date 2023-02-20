@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "half=bottom": [
+      {
+        "model": "botania:metamorphic/taiga_stone_slab"
+      },
+      {
+        "model": "botania:metamorphic/taiga_stone_slab_1"
+      }
+    ],
+    "half=top": [
+      {
+        "model": "botania:metamorphic/taiga_stone_slab_top"
+      },
+      {
+        "model": "botania:metamorphic/taiga_stone_slab_top_1"
+      }
+    ]
+  }
+}

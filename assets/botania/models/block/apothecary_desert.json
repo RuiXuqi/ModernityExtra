@@ -1,0 +1,8 @@
+{
+  "parent": "botania:block/shapes/petal_apothecary",
+  "textures": {
+    "bottom": "botania:model/apothecary/desert_bottom",
+    "side": "botania:model/apothecary/desert_side",
+    "top": "botania:model/apothecary/desert_top"
+  }
+}

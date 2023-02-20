@@ -1,0 +1,75 @@
+{
+	"credit": "Made by Cr_L with Blockbench",
+	"textures": {
+		"particle": "extendedcrafting:blocks/storage_black_iron",
+		"base": "extendedcrafting:blocks/storage_black_iron",
+		"top": "extendedcrafting:blocks/table_ultimate_top",
+		"side": "extendedcrafting:blocks/table_side"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 2, 14],
+			"faces": {
+				"north": {"uv": [2, 2, 14, 4], "texture": "#base"},
+				"east": {"uv": [2, 2, 14, 4], "texture": "#base"},
+				"south": {"uv": [2, 2, 14, 4], "texture": "#base"},
+				"west": {"uv": [2, 2, 14, 4], "texture": "#base"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#base"},
+				"down": {"uv": [2, 2, 14, 14], "texture": "#base", "cullface": "down"}
+			}
+		},
+		{
+			"from": [3, 2, 3],
+			"to": [5, 10, 5],
+			"faces": {
+				"north": {"uv": [1, 1, 3, 9], "texture": "#base"},
+				"east": {"uv": [1, 1, 3, 9], "texture": "#base"},
+				"south": {"uv": [1, 1, 3, 9], "texture": "#base"},
+				"west": {"uv": [1, 1, 3, 9], "texture": "#base"}
+			}
+		},
+		{
+			"from": [11, 2, 11],
+			"to": [13, 10, 13],
+			"faces": {
+				"north": {"uv": [1, 1, 3, 9], "texture": "#base"},
+				"east": {"uv": [1, 1, 3, 9], "texture": "#base"},
+				"south": {"uv": [1, 1, 3, 9], "texture": "#base"},
+				"west": {"uv": [1, 1, 3, 9], "texture": "#base"}
+			}
+		},
+		{
+			"from": [11, 2, 3],
+			"to": [13, 10, 5],
+			"faces": {
+				"north": {"uv": [1, 1, 3, 9], "texture": "#base"},
+				"east": {"uv": [1, 1, 3, 9], "texture": "#base"},
+				"south": {"uv": [1, 1, 3, 9], "texture": "#base"},
+				"west": {"uv": [1, 1, 3, 9], "texture": "#base"}
+			}
+		},
+		{
+			"from": [3, 2, 11],
+			"to": [5, 10, 13],
+			"faces": {
+				"north": {"uv": [1, 1, 3, 9], "texture": "#base"},
+				"east": {"uv": [1, 1, 3, 9], "texture": "#base"},
+				"south": {"uv": [1, 1, 3, 9], "texture": "#base"},
+				"west": {"uv": [1, 1, 3, 9], "texture": "#base"}
+			}
+		},
+		{
+			"from": [0, 10, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 6], "texture": "#side", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 6], "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 6], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 6], "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#base"}
+			}
+		}
+	]
+}

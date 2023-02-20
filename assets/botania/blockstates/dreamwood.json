@@ -1,0 +1,48 @@
+{
+  "variants": {
+    "variant=default": [
+      {
+        "model": "botania:dreamwood"
+      },
+      {
+        "model": "botania:dreamwood_1"
+      },
+      {
+        "model": "botania:dreamwood_2"
+      },
+      {
+        "model": "botania:dreamwood_3"
+      },
+      {
+        "model": "botania:dreamwood_4"
+      },
+      {
+        "model": "botania:dreamwood_5"
+      }
+    ],
+    "variant=planks": { "model": "botania:dreamwood_planks" },
+    "variant=mossy_planks": { "model": "botania:dreamwood_mossy_planks" },
+    "variant=framed": { "model": "botania:dreamwood_framed" },
+    "variant=pattern_framed": { "model": "botania:dreamwood_pattern_framed" },
+    "variant=glimmering": [
+      {
+        "model": "botania:dreamwood_glimmering"
+      },
+      {
+        "model": "botania:dreamwood_glimmering_1"
+      },
+      {
+        "model": "botania:dreamwood_glimmering_2"
+      },
+      {
+        "model": "botania:dreamwood_glimmering_3"
+      },
+      {
+        "model": "botania:dreamwood_glimmering_4"
+      },
+      {
+        "model": "botania:dreamwood_glimmering_5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "variants": {
+    "variant=forest": [
+      {
+        "model": "botania:metamorphic/forest_stone"
+      },
+      {
+        "model": "botania:metamorphic/forest_stone_mirrored"
+      },
+      {
+        "model": "botania:metamorphic/forest_stone",
+        "y": 180
+      },
+      {
+        "model": "botania:metamorphic/forest_stone_mirrored",
+        "y": 180
+      }
+    ],
+    "variant=plains": [
+      {
+        "model": "botania:metamorphic/plains_stone"
+      },
+      {
+        "model": "botania:metamorphic/plains_stone_mirrored"
+      },
+      {
+        "model": "botania:metamorphic/plains_stone",
+        "y": 180
+      },
+      {
+        "model": "botania:metamorphic/plains_stone_mirrored",
+        "y": 180
+      }
+    ],
+    "variant=mountain": [
+      {
+        "model": "botania:metamorphic/mountain_stone",
+        "weight": 5
+      },
+      {
+        "model": "botania:metamorphic/mountain_stone_mirrored",
+        "weight": 5
+      },
+      {
+        "model": "botania:metamorphic/mountain_stone",
+        "weight": 5,
+        "y": 180
+      },
+      {
+        "model": "botania:metamorphic/mountain_stone_mirrored",
+        "weight": 5,
+        "y": 180
+      },
+      {
+        "model": "botania:metamorphic/mountain_stone_1"
+      },
+      {
+        "model": "botania:metamorphic/mountain_stone_mirrored_1"
+      },
+      {
+        "model": "botania:metamorphic/mountain_stone_1",
+        "y": 180
+      },
+      {
+        "model": "botania:metamorphic/mountain_stone_mirrored_1",
+        "y": 180
+      }
+    ],
+    "variant=fungal": [
+      {
+        "model": "botania:metamorphic/fungal_stone"
+      },
+      {
+        "model": "botania:metamorphic/fungal_stone_mirrored"
+      },
+      {
+        "model": "botania:metamorphic/fungal_stone",
+        "y": 180
+      },
+      {
+        "model": "botania:metamorphic/fungal_stone_mirrored",
+        "y": 180
+      }
+    ],
+    "variant=swamp": [
+      {
+        "model": "botania:metamorphic/swamp_stone"
+      },
+      {
+        "model": "botania:metamorphic/swamp_stone_mirrored"
+      },
+      {
+        "model": "botania:metamorphic/swamp_stone",
+        "y": 180
+      },
+      {
+        "model": "botania:metamorphic/swamp_stone_mirrored",
+        "y": 180
+      }
+    ],
+    "variant=desert": [
+      {
+        "model": "botania:metamorphic/desert_stone"
+      },
+      {
+        "model": "botania:metamorphic/desert_stone_mirrored"
+      },
+      {
+        "model": "botania:metamorphic/desert_stone",
+        "y": 180
+      },
+      {
+        "model": "botania:metamorphic/desert_stone_mirrored",
+        "y": 180
+      }
+    ],
+    "variant=taiga": [
+      {
+        "model": "botania:metamorphic/taiga_stone"
+      },
+      {
+        "model": "botania:metamorphic/taiga_stone_mirrored"
+      },
+      {
+        "model": "botania:metamorphic/taiga_stone",
+        "y": 180
+      },
+      {
+        "model": "botania:metamorphic/taiga_stone_mirrored",
+        "y": 180
+      },
+      {
+        "model": "botania:metamorphic/taiga_stone_1"
+      },
+      {
+        "model": "botania:metamorphic/taiga_stone_mirrored_1"
+      },
+      {
+        "model": "botania:metamorphic/taiga_stone_1",
+        "y": 180
+      },
+      {
+        "model": "botania:metamorphic/taiga_stone_mirrored_1",
+        "y": 180
+      }
+    ],
+    "variant=mesa": [
+      {
+        "model": "botania:metamorphic/mesa_stone"
+      },
+      {
+        "model": "botania:metamorphic/mesa_stone_mirrored"
+      },
+      {
+        "model": "botania:metamorphic/mesa_stone",
+        "y": 180
+      },
+      {
+        "model": "botania:metamorphic/mesa_stone_mirrored",
+        "y": 180
+      }
+    ],
+    "variant=forest_cobble": { "model": "botania:metamorphic/forest_cobble_stone" },
+    "variant=plains_cobble": { "model": "botania:metamorphic/plains_cobble_stone" },
+    "variant=mountain_cobble": { "model": "botania:metamorphic/mountain_cobble_stone" },
+    "variant=fungal_cobble": { "model": "botania:metamorphic/fungal_cobble_stone" },
+    "variant=swamp_cobble": [
+      {
+        "model": "botania:metamorphic/swamp_cobblestone"
+      },
+      {
+        "model": "botania:metamorphic/swamp_cobblestone_1"
+      }
+    ],
+    "variant=desert_cobble": { "model": "botania:metamorphic/desert_cobble_stone" },
+    "variant=taiga_cobble": { "model": "botania:metamorphic/taiga_cobble_stone" },
+    "variant=mesa_cobble": { "model": "botania:metamorphic/mesa_cobble_stone" }
+  }
+}

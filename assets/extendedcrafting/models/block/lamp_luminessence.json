@@ -1,0 +1,7 @@
+{
+	"credit": "Made by Cr_L with Blockbench",
+	"parent": "extendedcrafting:block/lamp",
+	"textures": {
+		"light": "extendedcrafting:blocks/storage_luminessence"
+	}
+}

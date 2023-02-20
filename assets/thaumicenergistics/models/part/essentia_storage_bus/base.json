@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"sides": "appliedenergistics2:parts/storage_bus_sides",
+		"particle": "appliedenergistics2:parts/storage_bus_back",
+		"back": "appliedenergistics2:parts/storage_bus_back",
+		"front": "thaumicenergistics:part/essentia_storage_bus_face"
+	},
+	"elements": [
+		{
+			"from": [3, 3, 0],
+			"to": [13, 13, 1],
+			"faces": {
+				"north": {"uv": [3, 3, 13, 13], "texture": "#front"},
+				"east": {"uv": [3, 3, 4, 13], "texture": "#front"},
+				"south": {"uv": [3, 3, 13, 13], "texture": "#back"},
+				"west": {"uv": [12, 3, 13, 13], "texture": "#front"},
+				"up": {"uv": [13, 3, 3, 4], "texture": "#front"},
+				"down": {"uv": [13, 12, 3, 13], "texture": "#front"}
+			}
+		},
+		{
+			"from": [2, 2, 1],
+			"to": [14, 14, 2],
+			"faces": {
+				"north": {"uv": [2, 2, 14, 14], "texture": "#front"},
+				"east": {"uv": [14, 2, 15, 14], "texture": "#sides"},
+				"south": {"uv": [2, 2, 14, 14], "texture": "#back"},
+				"west": {"uv": [1, 2, 2, 14], "texture": "#sides"},
+				"up": {"uv": [2, 1, 14, 2], "texture": "#sides"},
+				"down": {"uv": [2, 14, 14, 15], "texture": "#sides"}
+			}
+		},
+		{
+			"from": [5, 5, 3],
+			"to": [11, 11, 4],
+			"faces": {
+				"east": {"uv": [12, 5, 13, 11], "texture": "#sides"},
+				"south": {"uv": [5, 5, 11, 11], "texture": "#back"},
+				"west": {"uv": [3, 5, 4, 11], "texture": "#sides"},
+				"up": {"uv": [5, 3, 11, 4], "texture": "#sides"},
+				"down": {"uv": [5, 12, 11, 13], "texture": "#sides"}
+			}
+		},
+		{
+			"from": [5, 5, 2],
+			"to": [11, 11, 3],
+			"faces": {
+				"east": {"uv": [13, 5, 14, 11], "texture": "#sides"},
+				"west": {"uv": [2, 5, 3, 11], "texture": "#sides"},
+				"up": {"uv": [5, 2, 11, 3], "texture": "#sides"},
+				"down": {"uv": [5, 13, 11, 14], "texture": "#sides"}
+			}
+		}
+	]
+}

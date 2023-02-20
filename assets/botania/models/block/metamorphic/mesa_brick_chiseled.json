@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "botania:blocks/biomestone31_top",
+    "side": "botania:blocks/biomestone31"
+  }
+}

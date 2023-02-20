@@ -1,0 +1,22 @@
+{
+  "variants": [
+    {
+      "model": "botania:dreamwood"
+    },
+    {
+      "model": "botania:dreamwood_1"
+    },
+    {
+      "model": "botania:dreamwood_2"
+    },
+    {
+      "model": "botania:dreamwood_3"
+    },
+    {
+      "model": "botania:dreamwood_4"
+    },
+    {
+      "model": "botania:dreamwood_5"
+    }
+  ]
+}

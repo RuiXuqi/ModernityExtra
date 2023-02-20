@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "botania:metamorphic/mountain_brick"
+      },
+      {
+        "model": "botania:metamorphic/mountain_brick_1"
+      },
+      {
+        "model": "botania:metamorphic/mountain_brick_2"
+      },
+      {
+        "model": "botania:metamorphic/mountain_brick_3"
+      },
+      {
+        "model": "botania:metamorphic/mountain_brick_4"
+      },
+      {
+        "model": "botania:metamorphic/mountain_brick_5"
+      }
+    ]
+  }
+}

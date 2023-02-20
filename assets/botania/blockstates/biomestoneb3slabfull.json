@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "botania:metamorphic/fungal_brick"
+      },
+      {
+        "model": "botania:metamorphic/fungal_brick_1"
+      }
+    ]
+  }
+}

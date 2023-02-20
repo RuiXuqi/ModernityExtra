@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "botania:metamorphic/forest_brick",
+        "weight": 2
+      },
+      {
+        "model": "botania:metamorphic/forest_brick_1"
+      }
+    ]
+  }
+}

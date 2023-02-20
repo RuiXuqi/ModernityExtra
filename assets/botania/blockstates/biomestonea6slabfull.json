@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "botania:metamorphic/taiga_stone"
+      },
+      {
+        "model": "botania:metamorphic/taiga_stone_1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "half=bottom": [
+      {
+        "model": "botania:metamorphic/fungal_brick_slab"
+      },
+      {
+        "model": "botania:metamorphic/fungal_brick_slab_1"
+      }
+    ],
+    "half=top": [
+      {
+        "model": "botania:metamorphic/fungal_brick_slab"
+      },
+      {
+        "model": "botania:metamorphic/fungal_brick_slab_1"
+      }
+    ]
+  }
+}
