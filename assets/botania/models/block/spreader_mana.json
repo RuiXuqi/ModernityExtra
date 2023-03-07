@@ -1,0 +1,10 @@
+{
+  "parent": "botania:block/shapes/spreader",
+  "textures": {
+    "back": "botania:model/spreader_item/mana_back",
+    "side": "botania:model/spreader_item/mana_side",
+    "inside": "botania:model/spreader_item/mana_inside",
+    "outside": "botania:blocks/livingwood0",
+    "core": "botania:model/spreader_item/mana_core"
+  }
+}
