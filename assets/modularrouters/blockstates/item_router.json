@@ -1,0 +1,52 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "modularrouters:item_router",
+    "textures": {
+      "overlay_f": "modularrouters:blocks/port_closed",
+      "overlay_b": "modularrouters:blocks/port_closed",
+      "overlay_u": "modularrouters:blocks/port_closed",
+      "overlay_d": "modularrouters:blocks/port_closed",
+      "overlay_l": "modularrouters:blocks/port_closed",
+      "overlay_r": "modularrouters:blocks/port_closed"
+    }
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "facing": {
+      "north": {},
+      "south": {"y": 180},
+      "west": {"y": 270},
+      "east": {"y": 90}
+    },
+    "active": {
+      "true": { "textures": { "front": "modularrouters:blocks/item_router_front_active" } },
+      "false": { "textures": {} }
+    },
+    "open_f": {
+      "true": { "textures": { "overlay_f": "modularrouters:blocks/port_open" } },
+      "false": { }
+    },
+    "open_b": {
+      "true": { "textures": { "overlay_b": "modularrouters:blocks/port_open" } },
+      "false": { }
+    },
+    "open_u": {
+      "true": { "textures": { "overlay_u": "modularrouters:blocks/port_open" } },
+      "false": { }
+    },
+    "open_d": {
+      "true": { "textures": { "overlay_d": "modularrouters:blocks/port_open" } },
+      "false": { }
+    },
+    "open_l": {
+      "true": { "textures": { "overlay_l": "modularrouters:blocks/port_open" } },
+      "false": { }
+    },
+    "open_r": {
+      "true": { "textures": { "overlay_r": "modularrouters:blocks/port_open" } },
+      "false": { }
+    }
+  }
+}

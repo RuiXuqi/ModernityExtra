@@ -1,0 +1,63 @@
+{
+  "parent": "minecraft:block/block",
+  "elements": [
+    {
+      "faces": {
+        "down": {
+          "cullface": "down",
+          "texture": "#bottom"
+        },
+        "east": {
+          "cullface": "east",
+          "texture": "#side"
+        },
+        "north": {
+          "cullface": "north",
+          "texture": "#front"
+        },
+        "south": {
+          "cullface": "south",
+          "texture": "#back"
+        },
+        "up": {
+          "cullface": "up",
+          "texture": "#top"
+        },
+        "west": {
+          "cullface": "west",
+          "texture": "#side"
+        }
+      },
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ]
+    },
+    {
+      "from": [ 0, 0, 0 ],
+      "to": [ 16, 16, 16 ],
+      "faces": {
+        "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#overlay_d", "cullface": "down" },
+        "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#overlay_u", "cullface": "up" },
+        "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#overlay_f", "cullface": "north" },
+        "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#overlay_b", "cullface": "south" },
+        "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#overlay_r", "cullface": "west" },
+        "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#overlay_l", "cullface": "east" }
+      }
+    }
+  ],
+  "textures": {
+    "front": "modularrouters:blocks/item_router_front",
+    "back": "modularrouters:blocks/item_router_back",
+    "bottom": "modularrouters:blocks/item_router_bottom",
+    "particle": "modularrouters:blocks/item_router_other",
+    "side": "modularrouters:blocks/item_router_side",
+    "top": "modularrouters:blocks/item_router_top"
+  }
+}
