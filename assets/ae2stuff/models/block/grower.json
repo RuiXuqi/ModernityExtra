@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/cube_column",
+	"textures": {
+		"end": "ae2stuff:blocks/grower/top",
+		"side": "ae2stuff:blocks/grower/side"
+	}
+}
