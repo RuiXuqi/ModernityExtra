@@ -14,9 +14,9 @@
 			"up":{},
 			"down":{},
 			"east":{},
-			"north": {"transform": {"rotation": {"y" : 90}}},
-			"west": {"transform": {"rotation": {"y": 180}}},
-			"south": {"transform": {"rotation": {"y" : 270}}}
+			"north": {"y":-90},
+			"west": {"y":180},
+			"south": {"y":90}
 		},
 		"inventory": [{}]
 	}
