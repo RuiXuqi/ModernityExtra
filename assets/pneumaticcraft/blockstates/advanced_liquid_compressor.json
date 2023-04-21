@@ -1,0 +1,19 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {},
+		"custom": {},
+        "model": "pneumaticcraft:advanced_liquid_compressor"
+    },
+	"variants": {
+		"facing": {
+			"up": {},
+			"down": {},
+			"east": {},
+			"north": {"transform":{"rotation":{"y":90}}},
+			"west": {"transform":{"rotation":{"y":180}}},
+			"south": {"transform":{"rotation":{"y":270}}}
+		},
+		"inventory": [{}]
+	}
+}

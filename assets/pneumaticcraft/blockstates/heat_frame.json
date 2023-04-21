@@ -1,12 +1,12 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "custom": { "flip-v" : true},
+        "textures": {},
+		"custom": {},
         "model": "pneumaticcraft:heat_frame"
     },
 	"variants": {
-		"normal": [{
-			"model": "pneumaticcraft:heat_frame"
-		}]
+		"normal": [{}],
+		"inventory": [{}]
 	}
 }

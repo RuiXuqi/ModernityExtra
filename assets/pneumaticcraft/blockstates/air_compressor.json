@@ -1,0 +1,23 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"textures": {},
+		"custom": {},
+		"model": "pneumaticcraft:air_compressor"
+	},
+	"variants": {
+		"on":{
+			"true":{"model":"pneumaticcraft:air_compressor_active"},
+			"false":{}
+		},
+		"facing": {
+			"up":{},
+			"down":{},
+			"east":{},
+			"north": {"transform": {"rotation": {"y" : 90}}},
+			"west": {"transform": {"rotation": {"y": 180}}},
+			"south": {"transform": {"rotation": {"y" : 270}}}
+		},
+		"inventory": [{}]
+	}
+}

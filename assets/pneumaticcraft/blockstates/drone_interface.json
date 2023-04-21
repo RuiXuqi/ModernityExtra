@@ -5,11 +5,7 @@
     },
 	"variants": {
 		"connected":{
-			"true":{
-				"textures":{
-					"north": "pneumaticcraft:block/drone_interface_front_on"
-				}
-			}
+			"true":{"textures":{"north": "pneumaticcraft:block/drone_interface_front_on"}}
 		}
 	}
 }
