@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"texture_size": [32, 32],
+	"textures": {
+		"bounty": "aquaculture:items/neptunes_bounty",
+	},
+	"elements": [
+		{
+			"from": [1, 0, 1],
+			"to": [15, 14, 15],
+			"faces": {
+				"north": {"uv": [0, 0, 7, 7], "texture": "#bounty"},
+				"east": {"uv": [7, 0, 14, 7], "texture": "#bounty"},
+				"south": {"uv": [7, 0, 14, 7], "texture": "#bounty"},
+				"west": {"uv": [7, 0, 14, 7], "texture": "#bounty"},
+				"up": {"uv": [0, 7, 7, 14], "texture": "#bounty"},
+				"down": {"uv": [0, 7, 7, 14], "texture": "#bounty"}
+			}
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "forbidden_arcanus:block/pixi_in_a_bottle_block_template",
+  "textures": {
+    "bottle_block_bottom": "forbidden_arcanus:blocks/bottle_block_bottom",
+    "bottle_block_side": "forbidden_arcanus:blocks/bottle_block_side",
+    "bottle_block_top": "forbidden_arcanus:blocks/bottle_block_top",
+    "pixie": "forbidden_arcanus:blocks/bottle_pixi"
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {},
+		"custom": {},
+        "model": "pneumaticcraft:pressure_chamber_interface"
+    },
+	"variants": {
+		"facing": {
+			"up":{"x":-90},
+			"down":{"x":90},
+			"east":{"y":90},
+			"north": {"y":180},
+			"west": {"y":270},
+			"south": {}
+		},
+		"inventory": [{}]
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent":"pneumaticcraft:block/liquid_compressor",
+	"textures": {
+		"1": "pneumaticcraft:model/advanced_liquid_compressor",
+		"particle": "pneumaticcraft:model/advanced_liquid_compressor"
+	}
+}
