@@ -1,0 +1,19 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {},
+        "model": "pneumaticcraft:programmable_controller"
+    },
+	"variants": {
+		"normal": [{}],
+		"inventory": [{}],
+		"facing": {
+			"up":{},
+			"down":{},
+			"east":{"y":90},
+			"north": {},
+			"west": {"y":-90},
+			"south": {"y":180}
+		}
+	}
+}

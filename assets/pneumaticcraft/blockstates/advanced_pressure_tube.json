@@ -1,0 +1,44 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"textures": {
+			"pipe": "pneumaticcraft:blocks/advanced_pressure_tube",
+			"pipeplug": "pneumaticcraft:blocks/tube_closed",
+			"particle": "pneumaticcraft:blocks/advanced_pressure_tube"
+		}
+	},
+	"variants": {
+		"normal": [{}],
+		"inventory": [{"model": "pneumaticcraft:pressure_tube_inv"}],
+		"down": {
+			"open":{"submodel":{"down":{"model":"pneumaticcraft:pressure_tube_disconnected","x":180}}},
+			"connected":{"submodel":{"down":{"model": "pneumaticcraft:pressure_tube_connected","x":180}}},
+			"closed": {"submodel":{"down":{"model":"pneumaticcraft:pressure_tube_closed","x":180}}}
+		},
+		"up": {
+			"open":{"submodel":{"up":{"model":"pneumaticcraft:pressure_tube_disconnected"}}},
+			"connected":{"submodel":{"up":{"model":"pneumaticcraft:pressure_tube_connected"}}},
+			"closed":{"submodel":{"up":{"model":"pneumaticcraft:pressure_tube_closed"}}}
+		},
+		"north": {
+			"open":{"submodel":{"north":{"model":"pneumaticcraft:pressure_tube_disconnected","x":90}}},
+			"connected":{"submodel":{"north":{"model":"pneumaticcraft:pressure_tube_connected","x":90}}},
+			"closed":{"submodel": {"north":{"model":"pneumaticcraft:pressure_tube_closed","x":90}}}
+		},
+		"south": {
+			"open":{"submodel":{"south":{"model":"pneumaticcraft:pressure_tube_disconnected","x":90,"y":180}}},
+			"connected":{"submodel":{"south":{"model":"pneumaticcraft:pressure_tube_connected","x":90,"y": 180}}},
+			"closed":{"submodel":{"south":{"model":"pneumaticcraft:pressure_tube_closed","x": 90,"y":180}}}
+		},
+		"west": {
+			"open":{"submodel":{"west":{"model":"pneumaticcraft:pressure_tube_disconnected","x":90,"y":270 }}},
+			"connected":{"submodel":{"west":{"model":"pneumaticcraft:pressure_tube_connected","x":90,"y":270}}},
+			"closed":{"submodel":{"west":{"model":"pneumaticcraft:pressure_tube_closed","x":90,"y":270}}}
+		},
+		"east": {
+			"open":{"submodel":{"east":{"model":"pneumaticcraft:pressure_tube_disconnected","x":90,"y":90}}},
+			"connected":{"submodel":{"east":{"model":"pneumaticcraft:pressure_tube_connected","x":90,"y":90}}},
+			"closed":{"submodel":{"east":{"model":"pneumaticcraft:pressure_tube_closed","x":90,"y":90 }}}
+		}
+	}
+}

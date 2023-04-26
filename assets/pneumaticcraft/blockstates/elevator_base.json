@@ -1,0 +1,28 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {},
+		"custom": {},
+        "model": "pneumaticcraft:elevator_base"
+    },
+	"variants": {
+		"normal": [{"model": "pneumaticcraft:elevator_base"}],
+		"inventory": [{}],
+		"north": {
+			"false": {},
+			"true": {}
+		},
+		"south": {
+			"false": {},
+			"true": {}
+		},
+		"west": {
+			"false": {},
+			"true": {}
+		},
+		"east": {
+			"false": {},
+			"true": {}
+		}
+	}
+}

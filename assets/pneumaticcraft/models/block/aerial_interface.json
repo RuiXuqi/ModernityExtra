@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "pneumaticcraft:blocks/aerial_interface_front",
+    "north": "pneumaticcraft:blocks/aerial_interface_front",
+    "south": "pneumaticcraft:blocks/side_panel",
+    "up": "pneumaticcraft:blocks/aerial_interface_top",
+    "down": "pneumaticcraft:blocks/bottom_panel",
+    "east": "pneumaticcraft:blocks/side_panel",
+    "west": "pneumaticcraft:blocks/side_panel"
+  }
+}
