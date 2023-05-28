@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "actuallyadditions:block_greenhouse_glass"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

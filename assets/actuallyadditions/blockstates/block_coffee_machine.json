@@ -1,0 +1,17 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "actuallyadditions:block_coffee_machine",
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "facing": {
+      "north": { "y" : 270 },
+      "south": { "y" : 0 },
+      "west": { "y" : 180 },
+      "east": { "y" : 90 }
+    }
+  }
+}
