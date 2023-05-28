@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+		"particle": "pneumaticcraft:blocks/programmable_controller",
+		"north": "pneumaticcraft:blocks/programmable_controller",
+		"south": "pneumaticcraft:blocks/back_panel",
+		"up": "pneumaticcraft:blocks/programmable_controller_top",
+		"down": "pneumaticcraft:blocks/top_panel",
+		"east": "pneumaticcraft:blocks/side_panel",
+		"west": "pneumaticcraft:blocks/side_panel"
+    }
+}

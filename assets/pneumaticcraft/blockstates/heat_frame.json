@@ -6,7 +6,7 @@
         "model": "pneumaticcraft:heat_frame"
     },
 	"variants": {
-		"normal": [{}],
+		"normal": [{"model": "pneumaticcraft:heat_frame"}],
 		"inventory": [{}]
 	}
 }

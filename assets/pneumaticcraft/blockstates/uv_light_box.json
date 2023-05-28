@@ -1,0 +1,22 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"textures": {},
+		"model": "pneumaticcraft:uv_light_box"
+	},
+	"variants": {
+		"loaded":{
+			"true":{"submodel":{"pcb":{"model":"pneumaticcraft:pcb"}}},
+			"false":{}
+		},
+		"facing": {
+			"up":{},
+			"down":{},
+			"east":{"y":-90},
+			"north": {"y":180},
+			"west": {"y":90},
+			"south": {}
+		},
+		"inventory": [{}]
+	}
+}

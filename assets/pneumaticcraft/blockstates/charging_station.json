@@ -1,0 +1,23 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {},
+		"custom": {},
+        "model": "pneumaticcraft:charging_station"
+    },
+	"variants": {
+		"facing": {
+			"up":{},
+			"down":{},
+			"east":{"y":-90},
+			"north": {"y":180},
+			"west": {"y":90},
+			"south": {}
+		},
+		"inventory": [{}],
+		"charge_pad": {
+			"true": {"submodel":{"charge_pad":{"model" :"pneumaticcraft:charge_pad"}}},
+			"false": {}
+		}
+	}
+}
