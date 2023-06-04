@@ -1,0 +1,30 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "pneumaticcraft:assembly_controller"
+	},
+	"variants": {
+		"normal": [{}],
+		"inventory": [{"model": "pneumaticcraft:assembly_controller_inv"}],
+		"down": {
+			"false": {},
+			"true": {}
+		},
+		"north": {
+			"false": {},
+			"true": {"submodel":{"north":{"model":"pneumaticcraft:assembly_connector_edge","y": 270}}}
+		},
+		"south": {
+			"false": {},
+			"true": {"submodel":{"south":{"model":"pneumaticcraft:assembly_connector_edge","y": 90}}}
+		},
+		"west": {
+			"false": {},
+			"true": {"submodel":{"west":{"model":"pneumaticcraft:assembly_connector_edge","y": 180}}}
+		},
+		"east": {
+			"false": {},
+			"true": {"submodel":{"east":{"model":"pneumaticcraft:assembly_connector_edge"}}}
+		}
+	}
+}

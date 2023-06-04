@@ -1,0 +1,64 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"textures": {}
+	},
+	"variants": {
+		"facing": {
+			"up":{"submodel":{"facing=up":{
+				"model":"pneumaticcraft:vortex_tube",
+				"x":90,
+				"custom":{"flip-v": true,"tintmap":{"Hot_1":1,"Hot_2":1,"Cold":0}}
+			}}},
+			"down":{"submodel":{"facing=down":{
+				"model":"pneumaticcraft:vortex_tube",
+				"x":270,
+				"custom":{"flip-v": true,"tintmap":{"Hot_1":1,"Hot_2":1,"Cold":0}}
+			}}},
+			"east":{"submodel":{"facing=east":{
+				"model":"pneumaticcraft:vortex_tube",
+				"y":270,
+				"custom":{"flip-v": true,"tintmap":{"Hot_1":1,"Hot_2":1,"Cold":0}}
+			}}},
+			"north":{"submodel":{"facing=north":{
+				"model":"pneumaticcraft:vortex_tube",
+				"y":180,
+				"custom":{"flip-v": true,"tintmap":{"Hot_1":1,"Hot_2":1,"Cold":0}}
+			}}},
+			"west":{"submodel":{"facing=west":{
+				"model":"pneumaticcraft:vortex_tube",
+				"y":90,
+				"custom":{"flip-v": true,"tintmap":{"Hot_1":1,"Hot_2":1,"Cold":0}}
+			}}},
+			"south":{"submodel":{"facing=south":{
+				"model":"pneumaticcraft:vortex_tube",
+				"custom":{"flip-v": true,"tintmap":{"Hot_1":1,"Hot_2":1,"Cold":0}}
+			}}}
+		},
+		"down": {
+			"false":{},
+			"true":{"submodel":{"down":{"model":"pneumaticcraft:pressure_tube_connected","x":180}}}
+		},
+		"up": {
+			"false":{},
+			"true":{"submodel":{"up":{"model":"pneumaticcraft:pressure_tube_connected"}}}
+		},
+		"north": {
+			"false":{},
+			"true":{"submodel":{"north":{"model":"pneumaticcraft:pressure_tube_connected","x":90}}}
+		},
+		"south": {
+			"false":{},
+			"true":{"submodel":{"south":{"model":"pneumaticcraft:pressure_tube_connected","x":90,"y":180}}}
+		},
+		"west": {
+			"false":{},
+			"true":{"submodel":{"west":{"model":"pneumaticcraft:pressure_tube_connected","x":90,"y":270}}}
+		},
+		"east": {
+			"false":{},
+			"true":{"submodel":{"east":{"model":"pneumaticcraft:pressure_tube_connected","x":90,"y":90}}}
+		},
+		"inventory": [{"model": "pneumaticcraft:vortex_tube"}]
+	}
+}
