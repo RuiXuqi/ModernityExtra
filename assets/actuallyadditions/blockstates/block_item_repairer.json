@@ -4,11 +4,11 @@
     "model": "minecraft:cube_bottom_top",
     "textures": {
       "down": "actuallyadditions:blocks/base_texture",
-      "up": "actuallyadditions:blocks/item_repairer_top",
-      "south": "actuallyadditions:blocks/item_repairer_side_b",
-      "north": "actuallyadditions:blocks/item_repairer_side_b",
-      "east": "actuallyadditions:blocks/item_repairer_side_a",
-      "west": "actuallyadditions:blocks/item_repairer_side_a"
+      "up": "actuallyadditions:blocks/block_item_repairer_top",
+      "south": "actuallyadditions:blocks/block_item_repairer_b",
+      "north": "actuallyadditions:blocks/block_item_repairer_b",
+      "east": "actuallyadditions:blocks/block_item_repairer_a",
+      "west": "actuallyadditions:blocks/block_item_repairer_a"
     },
     "transform": "forge:default-block"
   },
