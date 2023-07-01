@@ -123,3 +123,4 @@ tile.Reactor.ReactorController.name=聚变堆控制器
 tile.Reactor.ReactorFrame.name=聚变堆框架
 tile.Reactor.ReactorPort.name=聚变堆端口
 tile.Reactor.ReactorLogicAdapter.name=聚变堆逻辑适配器
+tile.BasicBlock2.SecurityDesk.name=安全桌

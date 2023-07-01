@@ -1,0 +1,1721 @@
+{
+    "credit": "Model by CyanideX",
+    "parent": "block/cube_all",
+    "textures": {
+        "1": "mekanism:blocks/models/ports",
+        "2": "mekanism:blocks/models/ports_led",
+        "all": "mekanism:blocks/models/chemical_infuser",
+        "particle": "mekanism:blocks/models/chemical_infuser"
+    },
+    "render_type": "minecraft:cutout",
+    "elements": [
+        {
+            "name": "portRight",
+            "from": [
+                0,
+                5,
+                4
+            ],
+            "to": [
+                1,
+                12,
+                12
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        0,
+                        1,
+                        7
+                    ],
+                    "texture": "#1"
+                },
+                "east": {
+                    "uv": [
+                        8,
+                        0,
+                        16,
+                        7
+                    ],
+                    "texture": "#1"
+                },
+                "south": {
+                    "uv": [
+                        7,
+                        0,
+                        8,
+                        7
+                    ],
+                    "texture": "#1"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        0,
+                        8,
+                        7
+                    ],
+                    "texture": "#1",
+                    "cullface": "west"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        0,
+                        8,
+                        1
+                    ],
+                    "rotation": 90,
+                    "texture": "#1"
+                }
+            }
+        },
+        {
+            "name": "portRightLED",
+            "from": [
+                0,
+                4,
+                4
+            ],
+            "to": [
+                0,
+                12,
+                12
+            ],
+            "faces": {
+                "west": {
+                    "uv": [
+                        0,
+                        0,
+                        8,
+                        8
+                    ],
+                    "texture": "#2",
+                    "cullface": "west",
+                    "emissivity": 15
+                }
+            }
+        },
+        {
+            "name": "portLeft",
+            "from": [
+                15,
+                5,
+                4
+            ],
+            "to": [
+                16,
+                12,
+                12
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        0,
+                        1,
+                        7
+                    ],
+                    "texture": "#1"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        0,
+                        8,
+                        7
+                    ],
+                    "texture": "#1",
+                    "cullface": "east"
+                },
+                "south": {
+                    "uv": [
+                        7,
+                        0,
+                        8,
+                        7
+                    ],
+                    "texture": "#1"
+                },
+                "west": {
+                    "uv": [
+                        8,
+                        0,
+                        16,
+                        7
+                    ],
+                    "texture": "#1"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        0,
+                        8,
+                        1
+                    ],
+                    "rotation": 90,
+                    "texture": "#1"
+                }
+            }
+        },
+        {
+            "name": "portLeftLED",
+            "from": [
+                16,
+                4,
+                4
+            ],
+            "to": [
+                16,
+                12,
+                12
+            ],
+            "faces": {
+                "east": {
+                    "uv": [
+                        0,
+                        0,
+                        8,
+                        8
+                    ],
+                    "texture": "#2",
+                    "cullface": "east",
+                    "emissivity": 15
+                }
+            }
+        },
+        {
+            "name": "tank3",
+            "from": [
+                2,
+                5,
+                1
+            ],
+            "to": [
+                14,
+                12,
+                8
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        10,
+                        11,
+                        16,
+                        14.5
+                    ],
+                    "texture": "#all"
+                },
+                "east": {
+                    "uv": [
+                        3.5,
+                        10.5,
+                        0,
+                        14
+                    ],
+                    "texture": "#all"
+                },
+                "south": {
+                    "uv": [
+                        10,
+                        11,
+                        16,
+                        14.5
+                    ],
+                    "texture": "#all"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        10.5,
+                        3.5,
+                        14
+                    ],
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        10,
+                        8,
+                        16,
+                        11.5
+                    ],
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "tube4",
+            "from": [
+                9,
+                13.5,
+                4
+            ],
+            "to": [
+                10,
+                14.5,
+                6
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "down": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "connector1",
+            "from": [
+                7,
+                5,
+                13
+            ],
+            "to": [
+                9,
+                11,
+                15
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        2.5,
+                        2.5,
+                        2,
+                        2
+                    ],
+                    "texture": "#all"
+                },
+                "south": {
+                    "uv": [
+                        2.5,
+                        2.5,
+                        2,
+                        2
+                    ],
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        2.5,
+                        2.5,
+                        2,
+                        2
+                    ],
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "connector2",
+            "from": [
+                3,
+                5,
+                6
+            ],
+            "to": [
+                13,
+                11,
+                9
+            ],
+            "faces": {
+                "east": {
+                    "uv": [
+                        2,
+                        2,
+                        2.5,
+                        2.5
+                    ],
+                    "texture": "#all"
+                },
+                "south": {
+                    "uv": [
+                        2,
+                        2,
+                        2.5,
+                        2.5
+                    ],
+                    "texture": "#all"
+                },
+                "west": {
+                    "uv": [
+                        2,
+                        2,
+                        2.5,
+                        2.5
+                    ],
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        2,
+                        2,
+                        2.5,
+                        2.5
+                    ],
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "connector3",
+            "from": [
+                8,
+                8,
+                9
+            ],
+            "to": [
+                9,
+                9,
+                13
+            ],
+            "faces": {
+                "west": {
+                    "uv": [
+                        2,
+                        2,
+                        2.5,
+                        2.5
+                    ],
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        2,
+                        2,
+                        2.5,
+                        2.5
+                    ],
+                    "texture": "#all"
+                },
+                "down": {
+                    "uv": [
+                        2,
+                        2,
+                        2.5,
+                        2.5
+                    ],
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "pipe2",
+            "from": [
+                1,
+                5,
+                5
+            ],
+            "to": [
+                2,
+                11,
+                9
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        14,
+                        3,
+                        14.5
+                    ],
+                    "rotation": 90,
+                    "texture": "#all"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        14,
+                        3,
+                        14.5
+                    ],
+                    "rotation": 90,
+                    "texture": "#all"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        14,
+                        3,
+                        14.5
+                    ],
+                    "rotation": 90,
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        14,
+                        3,
+                        14.5
+                    ],
+                    "rotation": 90,
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "tube5",
+            "from": [
+                6,
+                13.5,
+                4
+            ],
+            "to": [
+                7,
+                14.5,
+                6
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "down": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "tube10",
+            "from": [
+                7,
+                14,
+                13
+            ],
+            "to": [
+                9,
+                15,
+                14
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "down": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "tube2",
+            "from": [
+                11,
+                13.5,
+                6.5
+            ],
+            "to": [
+                13,
+                14.5,
+                7.5
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "down": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "portFront",
+            "from": [
+                4,
+                5,
+                0
+            ],
+            "to": [
+                12,
+                12,
+                1
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        0,
+                        8,
+                        7
+                    ],
+                    "texture": "#1",
+                    "cullface": "north"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        0,
+                        1,
+                        7
+                    ],
+                    "texture": "#1"
+                },
+                "south": {
+                    "uv": [
+                        8,
+                        0,
+                        16,
+                        7
+                    ],
+                    "texture": "#1"
+                },
+                "west": {
+                    "uv": [
+                        7,
+                        0,
+                        8,
+                        7
+                    ],
+                    "texture": "#1"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        0,
+                        8,
+                        1
+                    ],
+                    "texture": "#1"
+                }
+            }
+        },
+        {
+            "name": "portFrontLED",
+            "from": [
+                4,
+                4,
+                0
+            ],
+            "to": [
+                12,
+                12,
+                0
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        0,
+                        8,
+                        8
+                    ],
+                    "texture": "#2",
+                    "cullface": "north",
+                    "emissivity": 15
+                }
+            }
+        },
+        {
+            "name": "base",
+            "from": [
+                0,
+                0,
+                0
+            ],
+            "to": [
+                16,
+                5,
+                16
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        8,
+                        10.5,
+                        0,
+                        8
+                    ],
+                    "texture": "#all",
+                    "cullface": "north"
+                },
+                "east": {
+                    "uv": [
+                        8,
+                        10.5,
+                        0,
+                        8
+                    ],
+                    "texture": "#all",
+                    "cullface": "east"
+                },
+                "south": {
+                    "uv": [
+                        8,
+                        10.5,
+                        0,
+                        8
+                    ],
+                    "texture": "#all",
+                    "cullface": "south"
+                },
+                "west": {
+                    "uv": [
+                        8,
+                        10.5,
+                        0,
+                        8
+                    ],
+                    "texture": "#all",
+                    "cullface": "west"
+                },
+                "up": {
+                    "uv": [
+                        8,
+                        8,
+                        0,
+                        0
+                    ],
+                    "texture": "#all"
+                },
+                "down": {
+                    "uv": [
+                        16,
+                        8,
+                        8,
+                        0
+                    ],
+                    "texture": "#all",
+                    "cullface": "down"
+                }
+            }
+        },
+        {
+            "name": "tube8",
+            "from": [
+                3,
+                13.5,
+                7.5
+            ],
+            "to": [
+                4,
+                14.5,
+                9.5
+            ],
+            "faces": {
+                "east": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "down": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "pipe1",
+            "from": [
+                14,
+                5,
+                5
+            ],
+            "to": [
+                15,
+                11,
+                9
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        14,
+                        3,
+                        14.5
+                    ],
+                    "rotation": 90,
+                    "texture": "#all"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        14,
+                        3,
+                        14.5
+                    ],
+                    "rotation": 90,
+                    "texture": "#all"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        14,
+                        3,
+                        14.5
+                    ],
+                    "rotation": 90,
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        14,
+                        3,
+                        14.5
+                    ],
+                    "rotation": 90,
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "tube1",
+            "from": [
+                12,
+                13.5,
+                7.5
+            ],
+            "to": [
+                13,
+                14.5,
+                9.5
+            ],
+            "faces": {
+                "east": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "down": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "tube6",
+            "from": [
+                6,
+                11.5,
+                4
+            ],
+            "to": [
+                7,
+                13.5,
+                5
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "portBack",
+            "from": [
+                4,
+                5,
+                15
+            ],
+            "to": [
+                12,
+                12,
+                16
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        8,
+                        0,
+                        16,
+                        7
+                    ],
+                    "texture": "#1"
+                },
+                "east": {
+                    "uv": [
+                        7,
+                        0,
+                        8,
+                        7
+                    ],
+                    "texture": "#1"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        0,
+                        8,
+                        7
+                    ],
+                    "texture": "#1",
+                    "cullface": "south"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        0,
+                        1,
+                        7
+                    ],
+                    "texture": "#1"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        0,
+                        8,
+                        1
+                    ],
+                    "texture": "#1"
+                }
+            }
+        },
+        {
+            "name": "portBackLED",
+            "from": [
+                4,
+                4,
+                16
+            ],
+            "to": [
+                12,
+                12,
+                16
+            ],
+            "faces": {
+                "south": {
+                    "uv": [
+                        8,
+                        8,
+                        16,
+                        16
+                    ],
+                    "texture": "#2",
+                    "cullface": "south",
+                    "emissivity": 15
+                }
+            }
+        },
+        {
+            "name": "tube7",
+            "from": [
+                3,
+                13.5,
+                6.5
+            ],
+            "to": [
+                5,
+                14.5,
+                7.5
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "down": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "tube9",
+            "from": [
+                7,
+                14,
+                10
+            ],
+            "to": [
+                9,
+                15,
+                11
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "down": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "compressor",
+            "from": [
+                5,
+                12.5,
+                5.5
+            ],
+            "to": [
+                11,
+                15.5,
+                8.5
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        10,
+                        14.5,
+                        13,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "east": {
+                    "uv": [
+                        4.5,
+                        14,
+                        6,
+                        15.5
+                    ],
+                    "texture": "#all"
+                },
+                "south": {
+                    "uv": [
+                        13,
+                        14.5,
+                        16,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "west": {
+                    "uv": [
+                        4.5,
+                        14,
+                        6,
+                        15.5
+                    ],
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        10,
+                        14.5,
+                        13,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "down": {
+                    "uv": [
+                        13,
+                        14.5,
+                        16,
+                        16
+                    ],
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "tube3",
+            "from": [
+                9,
+                11.5,
+                4
+            ],
+            "to": [
+                10,
+                13.5,
+                5
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "exhaust1",
+            "from": [
+                11,
+                12,
+                2
+            ],
+            "to": [
+                12,
+                13,
+                3
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "exhaust2",
+            "from": [
+                9,
+                12,
+                2
+            ],
+            "to": [
+                10,
+                13,
+                3
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "exhaust3",
+            "from": [
+                6,
+                12,
+                2
+            ],
+            "to": [
+                7,
+                13,
+                3
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "exhaust4",
+            "from": [
+                4,
+                12,
+                2
+            ],
+            "to": [
+                5,
+                13,
+                3
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        15.5,
+                        0.5,
+                        16
+                    ],
+                    "texture": "#all"
+                }
+            }
+        },
+        {
+            "name": "tank1",
+            "from": [
+                9,
+                5,
+                9
+            ],
+            "to": [
+                15,
+                16,
+                15
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        6.5,
+                        10.5,
+                        9.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "east": {
+                    "uv": [
+                        6.5,
+                        10.5,
+                        9.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "south": {
+                    "uv": [
+                        6.5,
+                        10.5,
+                        9.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "west": {
+                    "uv": [
+                        6.5,
+                        10.5,
+                        9.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        3.5,
+                        10.5,
+                        6.5,
+                        13.5
+                    ],
+                    "rotation": 90,
+                    "texture": "#all",
+                    "cullface": "up"
+                }
+            }
+        },
+        {
+            "name": "tank2",
+            "from": [
+                1,
+                5,
+                9
+            ],
+            "to": [
+                7,
+                16,
+                15
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        6.5,
+                        10.5,
+                        9.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "east": {
+                    "uv": [
+                        6.5,
+                        10.5,
+                        9.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "south": {
+                    "uv": [
+                        6.5,
+                        10.5,
+                        9.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "west": {
+                    "uv": [
+                        6.5,
+                        10.5,
+                        9.5,
+                        16
+                    ],
+                    "texture": "#all"
+                },
+                "up": {
+                    "uv": [
+                        3.5,
+                        10.5,
+                        6.5,
+                        13.5
+                    ],
+                    "rotation": 270,
+                    "texture": "#all",
+                    "cullface": "up"
+                }
+            }
+        }
+    ]
+}

@@ -13,7 +13,7 @@
       "east":  {"x": -90, "y": -90},
       "west":  {"x": -90, "y":  90}
       },
-    "inventory": [{}]
+    "inventory": [{"model": "mekanism:laser"}]
   }
 }
 

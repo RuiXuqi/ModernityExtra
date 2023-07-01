@@ -13,64 +13,6 @@
         "model":"cube"
     },
     "variants":{  
-        "afstate":{  
-            "disassembled":{  
-            },
-            "assemblednorth":{  
-                "textures":{  
-                    "down":"#plate",
-                    "up":"#plate",
-                    "south":"#plate",
-                    "west":"#plate",
-                    "east":"#plate"
-                }
-            },
-            "assembledsouth":{  
-                "textures":{  
-                    "down":"#plate",
-                    "up":"#plate",
-                    "north":"#plate",
-                    "west":"#plate",
-                    "east":"#plate"
-                }
-            },
-            "assembledwest":{  
-                "textures":{  
-                    "down":"#plate",
-                    "up":"#plate",
-                    "north":"#plate",
-                    "south":"#plate",
-                    "east":"#plate"
-                }
-            },
-            "assembledeast":{  
-                "textures":{  
-                    "down":"#plate",
-                    "up":"#plate",
-                    "north":"#plate",
-                    "south":"#plate",
-                    "west":"#plate"
-                }
-            },
-            "assembledup":{  
-                "textures":{  
-                    "down":"#plate",
-                    "north":"#plate",
-                    "south":"#plate",
-                    "west":"#plate",
-                    "east":"#plate"
-                }
-            },
-            "assembleddown":{  
-                "textures":{  
-                    "up":"#plate",
-                    "north":"#plate",
-                    "south":"#plate",
-                    "west":"#plate",
-                    "east":"#plate"
-                }
-            }
-        },
         "inventory":{  
             "transform":"forge:default-block"
         }
