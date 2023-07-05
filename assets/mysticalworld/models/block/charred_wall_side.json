@@ -1,6 +1,0 @@
-{
-    "parent": "block/wall_side",
-    "textures": {
-        "wall": "mysticalworld:blocks/charred_planks"
-    }
-}
