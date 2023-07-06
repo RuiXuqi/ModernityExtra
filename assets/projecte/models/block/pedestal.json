@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench, by radzo73",
 	"parent": "minecraft:block/block",
 	"textures": {
-		"particle": "projecte:blocks/dark_matter_block",
+		"particle": "projecte:blocks/dm",
 		"pedestal": "projecte:blocks/dm_pedestal"
 	},
 	"elements": [
