@@ -3,8 +3,8 @@
   "textures": {
     "sides": "appliedenergistics2:parts/import_bus_sides",
     "sidesStatus": "appliedenergistics2:parts/monitor_sides_status",
+    "particle": "appliedenergistics2:parts/monitor_back",
     "back": "appliedenergistics2:parts/monitor_back",
-    "front": "appliedenergistics2:items/part/fluid_import_bus",
-    "particle": "appliedenergistics2:parts/monitor_back"
+    "front": "appliedenergistics2:items/part/fluid_import_bus"
   }
 }
