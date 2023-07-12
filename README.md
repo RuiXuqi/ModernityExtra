@@ -230,3 +230,5 @@ Most of the texture are not mine, so you will need to check up the changelog fro
 [Wireless Pattern Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-pattern-terminal)
 
 [Wopper](https://www.curseforge.com/minecraft/mc-mods/wopper)
+
+[AbyssalCraft](https://www.curseforge.com/minecraft/mc-mods/abyssalcraft)
