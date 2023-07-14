@@ -1,7 +1,7 @@
 {
   "forge_marker": 1,
   "defaults": {
-    "model": "actuallyadditions:block_item_repairer"
+    "model": "actuallyadditions:block_inputter_advanced"
   },
   "variants": {
     "normal": [{}],
