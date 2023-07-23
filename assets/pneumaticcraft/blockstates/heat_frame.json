@@ -1,12 +1,13 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "textures": {},
-		"custom": {},
+        "textures": {
+            "0": "pneumaticcraft:model/heat_frame"
+        },
         "model": "pneumaticcraft:heat_frame"
     },
 	"variants": {
 		"normal": [{"model": "pneumaticcraft:heat_frame"}],
-		"inventory": [{}]
+		"inventory": [{"model": "pneumaticcraft:heat_frame"}]
 	}
 }

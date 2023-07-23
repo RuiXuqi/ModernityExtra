@@ -4,11 +4,11 @@
 	"textures": {
 		"particle": "actuallyadditions:blocks/base_texture",
 		"bottom": "actuallyadditions:blocks/base_texture",
-		"top": "actuallyadditions:blocks/solar_panel_top",
-		"north": "actuallyadditions:blocks/solar_panel_side",
-		"west": "actuallyadditions:blocks/solar_panel_side_1",
-		"east": "actuallyadditions:blocks/solar_panel_side_2",
-		"south": "actuallyadditions:blocks/solar_panel_side_3"
+		"top": "actuallyadditions:blocks/block_furnace_solar_top",
+		"north": "actuallyadditions:blocks/block_furnace_solar_side",
+		"west": "actuallyadditions:blocks/block_furnace_solar_side_1",
+		"east": "actuallyadditions:blocks/block_furnace_solar_side_2",
+		"south": "actuallyadditions:blocks/block_furnace_solar_side_3"
 	},
 	"elements": [
 		{

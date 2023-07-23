@@ -1,0 +1,15 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+      "textures": {
+        "0": "pneumaticcraft:model/assembly_platform",
+        "1": "pneumaticcraft:model/assembly_base",
+        "particle": "pneumaticcraft:model/assembly_platform"
+    },
+    "model": "pneumaticcraft:assembly_platform"
+    },
+	"variants": {
+		"normal": [{"model": "pneumaticcraft:assembly_platform"}],
+		"inventory": [{"model": "pneumaticcraft:assembly_platform"}]
+	}
+}
