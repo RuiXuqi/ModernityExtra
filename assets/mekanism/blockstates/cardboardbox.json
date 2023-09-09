@@ -1,0 +1,14 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "mekanism:cardboard_box"
+  },
+  "variants": {
+    "storage": {
+      "true": {"model": "mekanism:cardboard_box_storage"},
+      "false": {"model": "mekanism:cardboard_box"}
+    },
+    "inventory": [{}]
+  }
+}
+
