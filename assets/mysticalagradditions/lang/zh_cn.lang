@@ -1,0 +1,12 @@
+# BLOCKS
+tile.ma.storage_essence.name=§5究极精华块
+tile.ma.storage_ingot.name=§5究极精华锭方块
+tile.ma.storage_coal.name=§5究极精华煤炭块
+
+# ITEMS
+item.ma.insanium_coal.name=§5究极精华煤炭
+
+# TINKERS
+fluid.base_essence.name=熔融活化水晶
+
+material.ma.base_essence.name=活化水晶
