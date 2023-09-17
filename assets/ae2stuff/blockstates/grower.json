@@ -3,5 +3,17 @@
 	"defaults": {
 		"model": "ae2stuff:grower"
 	},
-	"variants": {}
+	"variants": {
+		"active": {
+			"true": {
+				"textures": {
+					"side": "ae2stuff:blocks/grower/side_on"
+				}
+			},
+			"false": {}
+		},
+		"inventory": [
+			{}
+		]
+	}
 }

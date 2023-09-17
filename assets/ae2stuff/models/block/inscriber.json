@@ -4,7 +4,7 @@
 	"textures": {
 		"2": "ae2stuff:blocks/inscriber/inscriber_inside",
 		"inside": "ae2stuff:blocks/inscriber/inscriber_inside_2",
-		"particle": "#side",
+		"particle": "ae2stuff:blocks/inscriber/inscriber",
 		"side": "ae2stuff:blocks/inscriber/inscriber"
 	},
 	"elements": [
