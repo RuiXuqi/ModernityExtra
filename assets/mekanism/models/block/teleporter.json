@@ -1,0 +1,7 @@
+{
+    "parent": "mekanism:block/template/cube_all_led",
+    "textures": {
+        "all": "mekanism:blocks/teleporter",
+        "led": "mekanism:blocks/teleporter_led"
+    }
+}

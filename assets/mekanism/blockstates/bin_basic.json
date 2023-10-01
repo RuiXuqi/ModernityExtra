@@ -1,0 +1,30 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "mekanism:bin/basic"
+  },
+  "variants": {
+    "facing": {
+      "north": {},
+      "south": {
+        "y": 180
+      },
+      "east": {
+        "y": 90
+      },
+      "west": {
+        "y": -90
+      }
+    },
+    "active": {
+      "true": {
+        "model": "mekanism:bin/active/basic"
+    },
+      "false": {}
+    },
+    "inventory": [
+      {}
+    ]
+  }
+}
+

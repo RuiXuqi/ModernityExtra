@@ -1,136 +1,17 @@
 {
     "credit": "Model by CyanideX",
-    "render_type": "minecraft:cutout",
     "parent": "block/cube_all",
+    "render_type": "minecraft:cutout",
     "textures": {
-        "2": "mekanism:blocks/models/ports",
-        "3": "mekanism:blocks/models/ports_led",
-        "4": "mekanism:blocks/models/chargepad_elements",
-        "5": "mekanism:blocks/bottom",
-        "all": "mekanism:blocks/models/chargepad",
-        "particle": "mekanism:blocks/steelcasing"
+        "ports": "mekanism:blocks/models/ports",
+        "ports_led": "mekanism:blocks/models/ports_led",
+        "elements": "mekanism:blocks/models/chargepad_elements",
+        "bottom": "mekanism:blocks/base/base_bottom",
+        "particle": "mekanism:blocks/models/chargepad",
+        "chargepad": "mekanism:blocks/models/chargepad",
+        "chargepad_led": "mekanism:blocks/models/chargepad_led"
     },
     "elements": [
-        {
-            "name": "pillar2",
-            "from": [
-                4,
-                1,
-                11.99
-            ],
-            "to": [
-                6,
-                8,
-                13.99
-            ],
-            "faces": {
-                "north": {
-                    "uv": [
-                        4,
-                        0,
-                        2,
-                        7
-                    ],
-                    "texture": "#4"
-                },
-                "east": {
-                    "uv": [
-                        2,
-                        0,
-                        4,
-                        7
-                    ],
-                    "texture": "#4"
-                },
-                "south": {
-                    "uv": [
-                        2,
-                        7,
-                        4,
-                        14
-                    ],
-                    "texture": "#4"
-                },
-                "west": {
-                    "uv": [
-                        2,
-                        7,
-                        4,
-                        14
-                    ],
-                    "texture": "#4"
-                },
-                "up": {
-                    "uv": [
-                        2,
-                        12,
-                        4,
-                        14
-                    ],
-                    "texture": "#4"
-                }
-            }
-        },
-        {
-            "name": "pillar1",
-            "from": [
-                10,
-                1,
-                11.99
-            ],
-            "to": [
-                12,
-                8,
-                13.99
-            ],
-            "faces": {
-                "north": {
-                    "uv": [
-                        2,
-                        0,
-                        4,
-                        7
-                    ],
-                    "texture": "#4"
-                },
-                "east": {
-                    "uv": [
-                        2,
-                        7,
-                        4,
-                        14
-                    ],
-                    "texture": "#4"
-                },
-                "south": {
-                    "uv": [
-                        2,
-                        7,
-                        4,
-                        14
-                    ],
-                    "texture": "#4"
-                },
-                "west": {
-                    "uv": [
-                        4,
-                        0,
-                        2,
-                        7
-                    ],
-                    "texture": "#4"
-                },
-                "up": {
-                    "uv": [
-                        2,
-                        12,
-                        4,
-                        14
-                    ],
-                    "texture": "#4"
-                }
-            }
-        },
         {
             "name": "base",
             "from": [
@@ -151,7 +32,7 @@
                         16,
                         0
                     ],
-                    "texture": "#all",
+                    "texture": "#chargepad",
                     "cullface": "north"
                 },
                 "east": {
@@ -162,7 +43,7 @@
                         0
                     ],
                     "rotation": 90,
-                    "texture": "#all",
+                    "texture": "#chargepad",
                     "cullface": "east"
                 },
                 "south": {
@@ -172,7 +53,7 @@
                         16,
                         15
                     ],
-                    "texture": "#all",
+                    "texture": "#chargepad",
                     "cullface": "south"
                 },
                 "west": {
@@ -183,7 +64,7 @@
                         0
                     ],
                     "rotation": 90,
-                    "texture": "#all",
+                    "texture": "#chargepad",
                     "cullface": "west"
                 },
                 "up": {
@@ -193,7 +74,7 @@
                         16,
                         0
                     ],
-                    "texture": "#all"
+                    "texture": "#chargepad"
                 },
                 "down": {
                     "uv": [
@@ -202,17 +83,119 @@
                         16,
                         0
                     ],
-                    "texture": "#5",
+                    "texture": "#bottom",
                     "cullface": "down"
                 }
             }
         },
         {
-            "name": "connector",
+            "name": "stand_left",
+            "from": [
+                9,
+                1,
+                12
+            ],
+            "to": [
+                10,
+                5,
+                15
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        8,
+                        1,
+                        12
+                    ],
+                    "texture": "#elements"
+                },
+                "east": {
+                    "uv": [
+                        4,
+                        8,
+                        7,
+                        12
+                    ],
+                    "texture": "#elements"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        8,
+                        1,
+                        12
+                    ],
+                    "texture": "#elements"
+                },
+                "west": {
+                    "uv": [
+                        4,
+                        12,
+                        7,
+                        16
+                    ],
+                    "texture": "#elements"
+                }
+            }
+        },
+        {
+            "name": "stand_right",
+            "from": [
+                6,
+                1,
+                12
+            ],
+            "to": [
+                7,
+                5,
+                15
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        3,
+                        8,
+                        4,
+                        12
+                    ],
+                    "texture": "#elements"
+                },
+                "east": {
+                    "uv": [
+                        4,
+                        12,
+                        7,
+                        16
+                    ],
+                    "texture": "#elements"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        8,
+                        1,
+                        12
+                    ],
+                    "texture": "#elements"
+                },
+                "west": {
+                    "uv": [
+                        4,
+                        8,
+                        7,
+                        12
+                    ],
+                    "texture": "#elements"
+                }
+            }
+        },
+        {
+            "name": "port_back",
             "from": [
                 5,
                 5,
-                14
+                12
             ],
             "to": [
                 11,
@@ -220,163 +203,50 @@
                 15
             ],
             "faces": {
+                "north": {
+                    "uv": [
+                        10,
+                        3,
+                        16,
+                        9
+                    ],
+                    "texture": "#elements"
+                },
                 "east": {
                     "uv": [
-                        8,
-                        12,
-                        14,
-                        13
+                        7,
+                        3,
+                        10,
+                        9
                     ],
-                    "texture": "#4"
+                    "texture": "#elements"
                 },
                 "west": {
                     "uv": [
-                        8,
-                        12,
-                        14,
-                        13
+                        7,
+                        3,
+                        10,
+                        9
                     ],
-                    "texture": "#4"
+                    "texture": "#elements"
                 },
                 "up": {
                     "uv": [
-                        8,
-                        12,
-                        14,
-                        13
+                        10,
+                        3,
+                        16,
+                        0
                     ],
-                    "texture": "#4"
+                    "texture": "#elements"
                 },
                 "down": {
                     "uv": [
-                        8,
-                        12,
-                        14,
-                        13
-                    ],
-                    "texture": "#4"
-                }
-            }
-        },
-        {
-            "name": "stand",
-            "from": [
-                5,
-                1,
-                13
-            ],
-            "to": [
-                11,
-                11,
-                14
-            ],
-            "faces": {
-                "north": {
-                    "uv": [
-                        4,
-                        1,
                         10,
-                        11
-                    ],
-                    "texture": "#4"
-                },
-                "east": {
-                    "uv": [
                         9,
-                        1,
-                        10,
-                        11
-                    ],
-                    "texture": "#4"
-                },
-                "south": {
-                    "uv": [
-                        10,
-                        1,
                         16,
-                        11
+                        12
                     ],
-                    "texture": "#4"
-                },
-                "west": {
-                    "uv": [
-                        4,
-                        1,
-                        5,
-                        11
-                    ],
-                    "texture": "#4"
-                },
-                "up": {
-                    "uv": [
-                        4,
-                        0,
-                        10,
-                        1
-                    ],
-                    "texture": "#4"
-                }
-            }
-        },
-        {
-            "name": "plug",
-            "from": [
-                7,
-                4,
-                11
-            ],
-            "to": [
-                9,
-                5,
-                13
-            ],
-            "faces": {
-                "north": {
-                    "uv": [
-                        15,
-                        7,
-                        16,
-                        6.5
-                    ],
-                    "texture": "#all"
-                },
-                "east": {
-                    "uv": [
-                        15,
-                        6,
-                        15.5,
-                        7
-                    ],
-                    "rotation": 270,
-                    "texture": "#all"
-                },
-                "west": {
-                    "uv": [
-                        15,
-                        6,
-                        15.5,
-                        7
-                    ],
-                    "rotation": 90,
-                    "texture": "#all"
-                },
-                "up": {
-                    "uv": [
-                        15,
-                        7,
-                        15.5,
-                        6
-                    ],
-                    "texture": "#all"
-                },
-                "down": {
-                    "uv": [
-                        15,
-                        6,
-                        15.5,
-                        7
-                    ],
-                    "texture": "#all"
+                    "texture": "#elements"
                 }
             }
         },
@@ -400,7 +270,7 @@
                         8,
                         16
                     ],
-                    "texture": "#2"
+                    "texture": "#ports"
                 },
                 "east": {
                     "uv": [
@@ -409,7 +279,7 @@
                         8,
                         8
                     ],
-                    "texture": "#2"
+                    "texture": "#ports"
                 },
                 "south": {
                     "uv": [
@@ -418,7 +288,7 @@
                         8,
                         8
                     ],
-                    "texture": "#2",
+                    "texture": "#ports",
                     "cullface": "south"
                 },
                 "west": {
@@ -428,7 +298,7 @@
                         1,
                         8
                     ],
-                    "texture": "#2"
+                    "texture": "#ports"
                 },
                 "up": {
                     "uv": [
@@ -437,7 +307,7 @@
                         8,
                         1
                     ],
-                    "texture": "#2"
+                    "texture": "#ports"
                 },
                 "down": {
                     "uv": [
@@ -446,8 +316,74 @@
                         8,
                         8
                     ],
-                    "texture": "#2"
+                    "texture": "#ports"
                 }
+            }
+        },
+        {
+            "name": "base_led",
+            "from": [
+                2,
+                1.02,
+                2
+            ],
+            "to": [
+                14,
+                1.02,
+                14
+            ],
+            "faces": {
+                "up": {
+                    "uv": [
+                        2,
+                        14,
+                        14,
+                        2
+                    ],
+                    "texture": "#chargepad_led"
+                }
+            },
+            "forge_data": {
+                "block_light": 15,
+                "sky_light": 15
+            }
+        },
+        {
+            "name": "stand_led",
+            "from": [
+                5.98,
+                1,
+                13
+            ],
+            "to": [
+                10.02,
+                5,
+                14
+            ],
+            "faces": {
+                "east": {
+                    "uv": [
+                        5,
+                        8,
+                        6,
+                        12
+                    ],
+                    "texture": "#elements"
+                },
+                "west": {
+                    "uv": [
+                        5,
+                        8,
+                        6,
+                        12
+                    ],
+                    "texture": "#elements",
+                    "cullface": "west"
+                }
+            },
+            "forge_data": {
+                "block_light": 15,
+                "sky_light": 15
             }
         },
         {
@@ -470,10 +406,13 @@
                         16,
                         16
                     ],
-                    "texture": "#3",
-                    "cullface": "south",
-                    "emissivity": 15
+                    "texture": "#ports_led",
+                    "cullface": "south"
                 }
+            },
+            "forge_data": {
+                "block_light": 15,
+                "sky_light": 15
             }
         }
     ],

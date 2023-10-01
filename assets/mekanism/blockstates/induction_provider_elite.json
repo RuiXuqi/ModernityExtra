@@ -1,0 +1,19 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "mekanism:induction_provider",
+    "textures": {
+      "all": "mekanism:blocks/elite_induction_provider",
+      "led": "mekanism:blocks/elite_induction_provider_led"
+    }
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {}
+    ]
+  }
+}
+

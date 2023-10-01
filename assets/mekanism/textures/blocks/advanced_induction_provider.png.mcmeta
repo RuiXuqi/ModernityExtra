@@ -1,0 +1,27 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "CTM",
+        "layer": "SOLID",
+        "textures": [
+            "mekanism:ctm/advanced_induction_provider"
+        ],
+        "extra": {
+            "connect_to": [
+                {
+                    "block": "mekanism:basicblock2",
+                    "predicate": {
+                        "type": "induction_cell"
+                    }
+                },
+                {
+                    "block": "mekanism:basicblock2",
+                    "predicate": {
+                        "type": "induction_provider"
+                    }
+                }
+            ],
+            "connect_inside": true
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "mekanism:block/bin/basic",
+    "textures": {
+        "led": "mekanism:blocks/bin/ultimate_led",
+        "side": "mekanism:blocks/bin/ultimate_side",
+        "back": "mekanism:blocks/bin/ultimate_back"
+    }
+}

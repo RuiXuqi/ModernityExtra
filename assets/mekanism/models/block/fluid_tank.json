@@ -1,5 +1,6 @@
 {
     "credit": "Made with love by CyanideX using Blockbench",
+    "parent": "block/block",
     "render_type": "minecraft:cutout",
     "textures": {
         "ports_led": "mekanism:blocks/models/ports_large_led",
