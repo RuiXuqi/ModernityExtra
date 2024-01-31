@@ -1,0 +1,7 @@
+{
+  "parent": "botania:block/shapes/cube_checkered",
+  "textures": {
+    "north": "botania:blocks/catalyst_conjuration_mirrored",
+    "side": "botania:blocks/catalyst_conjuration"
+  }
+}
