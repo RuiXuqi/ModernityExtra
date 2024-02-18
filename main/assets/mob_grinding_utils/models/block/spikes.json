@@ -1,7 +1,6 @@
 {
 	"credit": "Made with Blockbench by radzo73",
 	"parent": "block/cube",
-	"texture_size": [32, 16],
 	"textures": {
 		"0": "mob_grinding_utils:blocks/iron_spikes",
 		"particle": "blocks/iron_block"
