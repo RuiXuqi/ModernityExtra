@@ -1,0 +1,6 @@
+{
+    "parent": "xreliquary:block/pedestal_passive",
+    "textures": {
+        "wool": "blocks/wool_colored_gray"
+    }
+}
