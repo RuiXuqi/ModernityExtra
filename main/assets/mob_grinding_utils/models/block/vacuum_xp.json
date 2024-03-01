@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "mob_grinding_utils:tiles/absorption_hopper_connects_fluids",
+		"particle": "mob_grinding_utils:tiles/absorption_hopper_connects_fluids"
+	},
+	"elements": [
+		{
+			"name": "part_1",
+			"from": [5, 5, 12],
+			"to": [11, 11, 13],
+			"faces": {
+				"north": {"uv": [6, 0, 9, 3], "texture": "#1"},
+				"east": {"uv": [0, 3, 3, 3.5], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [3, 0, 6, 3], "texture": "#1"},
+				"west": {"uv": [3, 3, 6, 3.5], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [6, 3, 9, 3.5], "texture": "#1"},
+				"down": {"uv": [9, 3, 12, 3.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "part_2",
+			"from": [6, 6, 13],
+			"to": [10, 10, 16],
+			"faces": {
+				"north": {"uv": [4, 3.5, 6, 5.5], "texture": "#1"},
+				"east": {"uv": [0, 5.5, 2, 7], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [2, 3.5, 4, 5.5], "texture": "#1"},
+				"west": {"uv": [2, 5.5, 4, 7], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [4, 5.5, 6, 7], "texture": "#1"},
+				"down": {"uv": [6, 5.5, 8, 7], "texture": "#1"}
+			}
+		}
+	]
+}

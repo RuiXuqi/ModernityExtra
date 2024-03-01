@@ -570,45 +570,6 @@
                     "texture": "#body"
                 }
             }
-        },
-        {
-            "name": "port_led",
-            "from": [
-                5,
-                13,
-                5
-            ],
-            "to": [
-                11,
-                13,
-                11
-            ],
-            "faces": {
-                "up": {
-                    "uv": [
-                        1,
-                        12,
-                        4,
-                        15
-                    ],
-                    "texture": "#body",
-                    "cullface": "up"
-                },
-                "down": {
-                    "uv": [
-                        5,
-                        0,
-                        10,
-                        5
-                    ],
-                    "texture": "#body",
-                    "cullface": "up"
-                }
-            },
-            "forge_data": {
-                "block_light": 15,
-                "sky_light": 15
-            }
         }
     ],
     "display": {
