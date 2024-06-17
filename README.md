@@ -18,217 +18,86 @@ Proof that I have the permission to include Jappafied Modded in my resource pack
 
 Most of the texture are not mine, so you will need to check up the changelog from the last updates to know the owner and credit him/her. The texture I drew is MIT License, you can use them just like you want.
 
-# Mod Support
+# Mod Support with Modernity (format 3 v3.9.1)
 
+### [AbyssalCraft](https://www.curseforge.com/minecraft/mc-mods/abyssalcraft)
 
-[Actually Additions](https://www.curseforge.com/minecraft/mc-mods/actually-additions)
+### [Actually Additions](https://www.curseforge.com/minecraft/mc-mods/actually-additions)
 
-[Advanced Solar Panels](https://www.curseforge.com/minecraft/mc-mods/advanced-solar-panels)
+### [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)[AE2 Unofficial Extended Life](https://www.curseforge.com/minecraft/mc-mods/ae2-extended-life)
 
 [AE Additions - ExtraCells2 Fork](https://www.curseforge.com/minecraft/mc-mods/ae-additions-extra-cells-2-fork)
 
 [AE2 Fluid Crafting](https://www.curseforge.com/minecraft/mc-mods/ae2-fluid-crafting)
 
-[AE2 Unofficial Extended Life](https://www.curseforge.com/minecraft/mc-mods/ae2-extended-life)
+[AE2 Fluid Crafting Rework](https://www.curseforge.com/minecraft/mc-mods/ae2-fluid-crafting-rework)
+
+[AE2 Stuff](https://www.curseforge.com/minecraft/mc-mods/ae2-stuff)
 
 [AE2 Utilities](https://www.curseforge.com/minecraft/mc-mods/ae2-utilities)
 
 [AE2 Wireless Terminal Library](https://www.curseforge.com/minecraft/mc-mods/ae2wtlib)
 
-[AIOT Botania](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)
+[Better P2P](https://www.curseforge.com/minecraft/mc-mods/betterp2p)
 
-[Apple Trees Revived](https://www.curseforge.com/minecraft/mc-mods/apple-trees-revived)
+### [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 
-[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
+### [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts)
 
-[Aroma1997's Dimensional World](https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world)
+### [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery)
 
-[Auxilium](https://www.curseforge.com/minecraft/mc-mods/auxilium)
+[Astral Additions](https://www.curseforge.com/minecraft/mc-mods/astral-additions)
 
-[Avaritia](https://www.curseforge.com/minecraft/mc-mods/avaritia-1-10)
+### [Atum 2: Return to the Sands](https://www.curseforge.com/minecraft/mc-mods/atum)
+
+### [Avaritia](https://www.curseforge.com/minecraft/mc-mods/avaritia-1-10)
 
 [Avaritia Recipe Generator](https://www.curseforge.com/minecraft/mc-mods/avaritia-recipe-generator)
 
-[BackStab](https://www.curseforge.com/minecraft/mc-mods/backstab)
+### [Better Builder's Wands](https://legacy.curseforge.com/minecraft/mc-mods/better-builders-wands)
 
-[Better Builder's Wands](https://www.curseforge.com/minecraft/mc-mods/better-builders-wands)
+### [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 
-[Better P2P](https://www.curseforge.com/minecraft/mc-mods/betterp2p)
+[ATOP Armor for Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/atop)
 
-[Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
+### [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
 
-[BountifulBaubles](https://www.curseforge.com/minecraft/mc-mods/bountifulbaubles)
+### [BountifulBaubles](https://www.curseforge.com/minecraft/mc-mods/bountifulbaubles)
 
-[Carbonado](https://www.curseforge.com/minecraft/mc-mods/carbonado)
+### [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
 
-[Ceramics](https://www.curseforge.com/minecraft/mc-mods/ceramics)
+[AIOT Botania](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)
 
-[CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core)
+### [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)
 
-[Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
+### [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte)
 
-[Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)
+[Auxilium](https://www.curseforge.com/minecraft/mc-mods/auxilium)
 
-[Deep Mob Learning](https://www.curseforge.com/minecraft/mc-mods/deep-mob-learning)
+### [The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)
 
-[Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)
+###  Other Lite Mods
 
-[Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io)
+the pack just change them a little to fit the new style so you may not notice them
 
-[Equivalent Energistics](https://www.curseforge.com/minecraft/mc-mods/equivalent-energistics)
+[Advanced Solar Panels](https://www.curseforge.com/minecraft/mc-mods/advanced-solar-panels)
 
-[Exp Ore Mod](https://www.curseforge.com/minecraft/mc-mods/exp-ore-block-mod)
+[Apple Trees Revived](https://www.curseforge.com/minecraft/mc-mods/apple-trees-revived)
 
-[Extended Crafting](https://www.curseforge.com/minecraft/mc-mods/extended-crafting)
+[Aroma1997s Dimensional World](https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world)
 
-[ExtraBotany](https://www.curseforge.com/minecraft/mc-mods/extrabotany)
+[Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked)
 
-[ExtraCells2](https://www.curseforge.com/minecraft/mc-mods/extracells2)
+[Backpacks](https://www.curseforge.com/minecraft/mc-mods/forge-backpacks)
 
-[Extra CPUs](https://www.curseforge.com/minecraft/mc-mods/extracpus)
+[Backstab](https://www.curseforge.com/minecraft/mc-mods/backstab)
 
-[Extra Utilities](https://www.curseforge.com/minecraft/mc-mods/extra-utilities)
+[Basic Nether Ores](https://www.curseforge.com/minecraft/mc-mods/basic-nether-ores)
 
-[Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)
+[BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether)
 
-[Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads)
+[Birds Nests](https://www.curseforge.com/minecraft/mc-mods/birds-nests)
 
-[First Aid](https://www.curseforge.com/minecraft/mc-mods/first-aid)
-
-[Flopper](https://www.curseforge.com/minecraft/mc-mods/flopper)
-
-[Future MC](https://www.curseforge.com/minecraft/mc-mods/future-mc)
-
-[GalactiCraft](https://micdoodle8.com/mods/galacticraft)
-
-[Glass Doors](https://www.curseforge.com/minecraft/mc-mods/glass-doors)
-
-[Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
-
-[Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
-
-[Industrial Craft](https://www.curseforge.com/minecraft/mc-mods/industrial-craft)
-
-[Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
-
-[Industrial Upgrade](https://www.curseforge.com/minecraft/mc-mods/industrial-upgrade) - below v2.0
+[Bottled Milk](https://www.curseforge.com/minecraft/mc-mods/bottled-milk)
 
 [In-Game Account Switcher](https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher)
-
-[Ingame Username Changer](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2233908-forge-jarmod-ingame-username-changer-now-with)
-
-[Iridium Source](https://www.curseforge.com/minecraft/mc-mods/iridium-source)
-
-[Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
-
-[JAOPCA](https://www.curseforge.com/minecraft/mc-mods/jaopca)
-
-[Just Enough Buttons](https://www.curseforge.com/minecraft/mc-mods/just-enough-buttons)
-
-[Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)
-
-[Lazy AE2](https://www.curseforge.com/minecraft/mc-mods/lazy-ae2)
-
-[LibVulpes](https://www.curseforge.com/minecraft/mc-mods/libvulpes)
-
-[Manaita Plus](https://www.curseforge.com/minecraft/mc-mods/manaita-plus)
-
-[Materialis](https://www.curseforge.com/minecraft/mc-mods/materialis)
-
-[Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
-
-[Minecoprocessors](https://www.curseforge.com/minecraft/mc-mods/minecoprocessors)
-
-[MmmMmmMmmMmm (Target Dummy)](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
-
-[Modular Machinery](https://www.curseforge.com/minecraft/mc-mods/modular-machinery)
-
-[Modular Routers](https://www.curseforge.com/minecraft/mc-mods/modular-routers)
-
-[More Cauldrons](https://www.curseforge.com/minecraft/mc-mods/more-cauldrons)
-
-[More Electric Tools](https://www.curseforge.com/minecraft/mc-mods/more-electric-tools)
-
-[More Furnaces](https://www.curseforge.com/minecraft/mc-mods/more-furnaces)
-
-[Natural Absorption](https://www.curseforge.com/minecraft/mc-mods/natural-absorption)
-
-[NuclearCraft](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-mod)
-
-[NuclearCraft: Overhauled](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-overhauled)
-
-[PlusTiC](https://github.com/Landmaster/PlusTiC)
-
-[ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte)
-
-[Project Red - Exploration](https://www.curseforge.com/minecraft/mc-mods/project-red-exploration)
-
-[Psi](https://www.curseforge.com/minecraft/mc-mods/psi)
-
-[Rainbow Oak Trees](https://www.curseforge.com/minecraft/mc-mods/rainbow-oak-trees)
-
-[Random Things](https://www.curseforge.com/minecraft/mc-mods/random-things)
-
-[Redstone Arsenal](https://www.curseforge.com/minecraft/mc-mods/redstone-arsenal)
-
-[Scaling Health](https://www.curseforge.com/minecraft/mc-mods/scaling-health)
-
-[Schools of Magic Mod](https://www.curseforge.com/minecraft/mc-mods/schools-of-magic-mod)
-
-[Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
-
-[Simple Smeltery Accelerator](https://www.curseforge.com/minecraft/mc-mods/simple-smeltery-accelerator)
-
-[Spartan Weaponry: Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry-twilight-forest)
-
-[Speedy Hoppers](https://www.curseforge.com/minecraft/mc-mods/speedy-hoppers)
-
-[Super Ores](https://www.curseforge.com/minecraft/mc-mods/super-ores)
-
-[Super Stick Sword](https://www.curseforge.com/minecraft/mc-mods/super-stick-sword)
-
-[TAIGA (Tinkers alloying addon)](https://www.curseforge.com/minecraft/mc-mods/taiga-tinkers-alloying-addon)
-
-[Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)
-
-[Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)
-
-[Thaumic Energistics](https://www.curseforge.com/minecraft/mc-mods/thaumic-energistics)
-
-[The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
-
-[Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)
-
-[Thermal Dynamics](https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics)
-
-[Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)
-
-[Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)
-
-[Thermal Innovation](https://www.curseforge.com/minecraft/mc-mods/thermal-innovation)
-
-[Tinker I/O](https://www.curseforge.com/minecraft/mc-mods/tinker-i-o)
-
-[Tinkers' Complement](https://www.curseforge.com/minecraft/mc-mods/tinkers-complement)
-
-[Torcherino](https://www.curseforge.com/minecraft/mc-mods/torcherino)
-
-[Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack)
-
-[Traverse Reforged](https://www.curseforge.com/minecraft/mc-mods/traverse-reforged)
-
-[TreeOres](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2242983-treeores-1-12-2-finally-back-version-0-1-1-11-2-1)
-
-[Vulcanite](https://www.curseforge.com/minecraft/mc-mods/vulcanite)
-
-[Wireless Crafting Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-crafting-terminal)
-
-[Wireless Fluid Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-fluid-terminal)
-
-[Wireless Interface Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-interface-terminal)
-
-[Wireless Pattern Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-pattern-terminal)
-
-[Wopper](https://www.curseforge.com/minecraft/mc-mods/wopper)
-
-[AbyssalCraft](https://www.curseforge.com/minecraft/mc-mods/abyssalcraft)
