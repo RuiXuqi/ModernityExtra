@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "actuallyadditions:block_item_viewer"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

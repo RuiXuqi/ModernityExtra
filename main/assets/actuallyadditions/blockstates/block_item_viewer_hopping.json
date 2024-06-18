@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "actuallyadditions:item_viewer_hopping_down"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+      "facing=down": { "model": "actuallyadditions:item_viewer_hopping_down" },
+      "facing=north": { "model": "actuallyadditions:item_viewer_hopping_side" },
+      "facing=south": { "model": "actuallyadditions:item_viewer_hopping_side", "y": 180 },
+      "facing=west": { "model": "actuallyadditions:item_viewer_hopping_side", "y": 270 },
+      "facing=east": { "model": "actuallyadditions:item_viewer_hopping_side", "y": 90 }
+  }
+}
