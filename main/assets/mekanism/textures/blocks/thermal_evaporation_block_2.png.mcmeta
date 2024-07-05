@@ -1,7 +1,12 @@
 {
     "ctm": {
         "ctm_version": 1,
-        "type": "ctm:optifine_full",
+        "#proxy": "mekanism:ctm/thermal_evaporation_block_2_full",
+        "type": "CTM",
+        "layer": "SOLID",
+        "textures": [
+            "mekanism:ctm/thermal_evaporation_block_2"
+        ],
         "extra": {
             "connect_to": [
                 {

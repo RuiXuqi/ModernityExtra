@@ -1,0 +1,34 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "mekanism:thermal_evaporation/controller"
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "facing": {
+      "north": {},
+      "south": {
+        "y": 180
+      },
+      "east": {
+        "y": 90
+      },
+      "west": {
+        "y": -90
+      }
+    },
+    "inventory": [
+      {}
+    ],
+    "active": {
+      "false": {
+        "model": "mekanism:thermal_evaporation/controller"
+      },
+      "true": {
+        "model": "mekanism:thermal_evaporation/controller_active"
+      }
+    }
+  }
+}

@@ -1,10 +1,12 @@
+
 {
     "ctm": {
         "ctm_version": 1,
+        "#proxy": "mekanism:ctm/boiler_casing_full",
         "type": "CTM",
         "layer": "SOLID",
         "textures": [
-            "mekanism:ctm/induction_casing"
+            "mekanism:ctm/boiler_casing"
         ],
         "extra": {
             "connect_to": [
@@ -12,14 +14,14 @@
                     "block": "mekanism:basicblock2",
                     "predicate":
                     {
-                        "type": "induction_casing"
+                        "type": "boiler_casing"
                     }
                 },
                 {
                     "block": "mekanism:basicblock2",
                     "predicate":
                     {
-                        "type": "induction_port"
+                        "type": "boiler_valve"
                     }
                 }
             ]

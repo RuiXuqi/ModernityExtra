@@ -4,7 +4,7 @@
         "type": "CTM",
         "layer": "SOLID",
         "textures": [
-            "mekanism:ctm/induction_casing"
+            "mekanism:ctm/thermal_evaporation_block_4"
         ],
         "extra": {
             "connect_to": [
@@ -12,14 +12,21 @@
                     "block": "mekanism:basicblock2",
                     "predicate":
                     {
-                        "type": "induction_casing"
+                        "type": "thermal_evaporation_block"
                     }
                 },
                 {
-                    "block": "mekanism:basicblock2",
+                    "block": "mekanism:basicblock",
                     "predicate":
                     {
-                        "type": "induction_port"
+                        "type": "thermal_evaporation_controller"
+                    }
+                },
+                {
+                    "block": "mekanism:basicblock",
+                    "predicate":
+                    {
+                        "type": "thermal_evaporation_valve"
                     }
                 }
             ]

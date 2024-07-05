@@ -4,22 +4,22 @@
         "type": "CTM",
         "layer": "SOLID",
         "textures": [
-            "mekanism:ctm/induction_casing"
+            "mekanism:ctm/dynamic_valve"
         ],
         "extra": {
             "connect_to": [
                 {
-                    "block": "mekanism:basicblock2",
+                    "block": "mekanism:basicblock",
                     "predicate":
                     {
-                        "type": "induction_casing"
+                        "type": "dynamic_tank"
                     }
                 },
                 {
-                    "block": "mekanism:basicblock2",
+                    "block": "mekanism:basicblock",
                     "predicate":
                     {
-                        "type": "induction_port"
+                        "type": "dynamic_valve"
                     }
                 }
             ]
