@@ -1,2 +1,2 @@
-ModernityExtra addition pack for Actually Additions
-Old resources from AA 1.16.5
+ModernityExtra addition pack for Applied Energistics 2
+Old resources from AE2 1.16.5
