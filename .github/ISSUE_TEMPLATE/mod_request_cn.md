@@ -1,5 +1,5 @@
 ---
-name: 模组纹理请求 (Mod request CN)
+name: 模组请求 (Mod request CN)
 about: 请求为模组中的方块与物品新增纹理
 title: "[请求] "
 labels: enhancement
