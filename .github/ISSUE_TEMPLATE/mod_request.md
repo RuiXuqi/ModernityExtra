@@ -17,9 +17,11 @@ assignees: ''
 <!-- If you are using a forked version, please note. -->
 
 
-**Link to download mod officially**
-<!-- To help us get the mod and test. -->
+**Mod link**
+<!-- Provide links to help us obtain the mod for testing -->
+<!-- Links should point to official distribution platforms like GitHub, CurseForge, Modrinth, etc. Avoid personal links like cloud storage -->
+<!-- You may directly attach files if unable to provide links -->
 
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+<!-- Add any other context or screenshots about the feature request here. -->

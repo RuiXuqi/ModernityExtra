@@ -1,3 +1,5 @@
+# TODO: REWRITE README
+
 # About
 
 As its name suggests, it is a faux Jappa (i.e. 1.14+ new materials) texture pack that requires [Modernity](https://modrinth.com/resourcepack/modernity) as a front.
