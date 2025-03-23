@@ -10,15 +10,27 @@
       "faces": {
         "down": {
           "texture": "#block",
-          "cullface": "down"
+          "cullface": "down",
+          "uvlightmap": {
+              "block": 0.007,
+              "sky": 0.007
+          }
         },
         "east": {
           "texture": "#block",
-          "cullface": "east"
+          "cullface": "east",
+          "uvlightmap": {
+              "block": 0.007,
+              "sky": 0.007
+          }
         },
         "north": {
           "texture": "#block",
-          "cullface": "north"
+          "cullface": "north",
+                    "uvlightmap": {
+                        "block": 0.007,
+                        "sky": 0.007
+                    }
         },
         "south": {
           "texture": "#block",
@@ -41,32 +53,50 @@
         "down": {
           "texture": "#quartz",
           "cullface": "down",
-          "unlit": true
+                    "uvlightmap": {
+                        "block": 0.007,
+                        "sky": 0.007
+                    }
         },
         "east": {
           "texture": "#quartz",
           "cullface": "east",
-          "unlit": true
+                    "uvlightmap": {
+                        "block": 0.007,
+                        "sky": 0.007
+                    }
         },
         "north": {
           "texture": "#quartz",
           "cullface": "north",
-          "unlit": true
+                    "uvlightmap": {
+                        "block": 0.007,
+                        "sky": 0.007
+                    }
         },
         "south": {
           "texture": "#quartz",
           "cullface": "south",
-          "unlit": true
+                    "uvlightmap": {
+                        "block": 0.007,
+                        "sky": 0.007
+                    }
         },
         "up": {
           "texture": "#quartz",
           "cullface": "up",
-          "unlit": true
+                    "uvlightmap": {
+                        "block": 0.007,
+                        "sky": 0.007
+                    }
         },
         "west": {
           "texture": "#quartz",
           "cullface": "west",
-          "unlit": true
+                    "uvlightmap": {
+                        "block": 0.007,
+                        "sky": 0.007
+                    }
         }
       },
       "from": [0, 0, 0],
