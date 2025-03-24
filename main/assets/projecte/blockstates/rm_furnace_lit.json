@@ -5,7 +5,7 @@
     "textures": {
       "top": "projecte:blocks/rm",
       "front": "projecte:blocks/matter_furnace/rm_on",
-      "side": "projecte:blocks/rm_side"
+      "side": "projecte:blocks/matter_furnace/rm_side"
     }
   },
   "variants": {
