@@ -36,6 +36,16 @@ Most of the texture are not mine, so you will need to check up the changelog fro
 
 [Corail Tombstones Redux](https://www.curseforge.com/minecraft/texture-packs/tombstones-redux)
 
+# Modpack Support
+You may find some modpack custom items and textures get retextured.
+
+[FTB Presents Stoneblock 2](https://www.curseforge.com/minecraft/modpacks/ftb-presents-stoneblock-2)
+
+[Magiculture 2](https://www.curseforge.com/minecraft/modpacks/magiculture-2)
+
+[Nova Engineering - World](https://www.mcmod.cn/modpack/784.html)
+
+
 # Mod Support
 
 [AbyssalCraft](https://www.curseforge.com/minecraft/mc-mods/abyssalcraft)
