@@ -1,2 +1,3 @@
 PackVersion:1.4.0-Beta
-ModernityVersion:3.9.1
+ModernityVersion:3.10.2
+AdjunctVersion:1.5
