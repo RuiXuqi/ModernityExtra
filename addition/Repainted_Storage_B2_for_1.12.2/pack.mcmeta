@@ -1,0 +1,21 @@
+{
+  "pack": {
+    "pack_format": 3,
+    "description": [
+      {
+        "text": "Repainted ",
+        "bold": true,
+        "color": "gold"
+      },
+      {
+        "text": "Storage",
+        "color": "aqua"
+      },
+      {
+        "text": "\nVersion [B2]",
+        "bold": false,
+        "color": "gray"
+      }
+    ]
+  }
+}
