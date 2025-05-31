@@ -150,6 +150,8 @@ You may find some modpack custom items and textures get retextured.
 
 [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
 
+[Iron Chests (with Netherite Chest)](https://www.curseforge.com/minecraft/mc-mods/iron-chests-with-netherite-chest)
+
 [JAOPCA](https://www.curseforge.com/minecraft/mc-mods/jaopca)
 
 [Just Enough Buttons](https://www.curseforge.com/minecraft/mc-mods/just-enough-buttons)
