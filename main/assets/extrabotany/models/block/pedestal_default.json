@@ -1,8 +1,10 @@
 {
-	"parent": "botania:block/shapes/petal_apothecary",
-	"textures": {
-	  "bottom": "extrabotany:model/pedestal/stone_bottom",
-	  "side": "extrabotany:model/pedestal/stone_side",
-	  "top": "extrabotany:model/pedestal/stone_top"
-	}
+  "parent": "extrabotany:block/shapes/pedestal",
+  "textures": {
+    "down": "extrabotany:blocks/pedestal_livingrock_down",
+    "particle": "extrabotany:blocks/pedestal_livingrock_down",
+    "side": "extrabotany:blocks/pedestal_livingrock_side",
+    "top": "extrabotany:blocks/pedestal_livingrock_top",
+    "up": "extrabotany:blocks/pedestal_livingrock_up"
   }
+}
