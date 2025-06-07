@@ -1,0 +1,86 @@
+{
+	"ccl_marker": 1,
+	"variant_sets": [
+		"type,facing,active"
+	],
+	"texture_domain": "denseneutroncollectors",
+	"defaults": {
+		"model": "avaritia:machine",
+		"textures": {
+			"front": "minecraft:dirt",
+			"side_left": "minecraft:dirt",
+			"side_right": "minecraft:dirt",
+			"top": "minecraft:dirt",
+			"frame": "minecraft:dirt"
+		},
+		"transform": "ccl:default-block"
+	},
+	"variants": {
+		"type": {
+			"compressed_neutron_collector": {
+				"textures": {
+					"front": "blocks/machine/collector/compressed_collector_front",
+					"side_left": "blocks/machine/collector/compressed_collector_side_left",
+					"side_right": "blocks/machine/collector/compressed_collector_side_right",
+					"top": "blocks/machine/collector/compressed_collector_top",
+					"frame": "blocks/machine/collector/frame"
+				},
+				"variants": {
+					"active": {
+						"true": {
+						},
+						"false": {
+						}
+					}
+				}
+			},
+			"double_compressed_neutron_collector": {
+				"textures": {
+					"front": "blocks/machine/collector/double_collector_front",
+					"side_left": "blocks/machine/collector/double_collector_side_left",
+					"side_right": "blocks/machine/collector/double_collector_side_right",
+					"top": "blocks/machine/collector/double_collector_top",
+					"frame": "blocks/machine/collector/frame"
+				},
+				"variants": {
+					"active": {
+						"true": {
+						},
+						"false": {
+						}
+					}
+				}
+			},
+			"triple_compressed_neutron_collector": {
+				"textures": {
+					"front": "blocks/machine/collector/triple_collector_front",
+					"side_left": "blocks/machine/collector/triple_collector_side_left",
+					"side_right": "blocks/machine/collector/triple_collector_side_right",
+					"top": "blocks/machine/collector/triple_collector_top",
+					"frame": "blocks/machine/collector/frame"
+				},
+				"variants": {
+					"active": {
+						"true": {
+						},
+						"false": {
+						}
+					}
+				}
+			}
+		},
+		"facing": {
+			"north": {
+			},
+			"south": {
+				"y": 180
+			},
+			"west": {
+				"y": 270
+			},
+			"east": {
+				"y": 90
+			}
+		}
+	}
+}
