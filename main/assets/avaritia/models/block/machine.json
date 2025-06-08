@@ -1,0 +1,21 @@
+{
+  "render_type": "cutout",
+  "parent": "block/cube",
+  "textures": {
+		"north": "#frame",
+		"east": "#side_left",
+		"south": "#front",
+		"west": "#side_right",
+		"up": "#top",
+		"down": "#frame",
+		"particle": "#top",
+
+		"north": "#front",
+		"east": "#side_right",
+		"south": "#frame",
+		"west": "#side_left",
+		"up": "#top",
+		"down": "#frame",
+		"particle": "#top"
+  }
+}
