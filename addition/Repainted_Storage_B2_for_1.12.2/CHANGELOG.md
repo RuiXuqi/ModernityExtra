@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 but this project does not adhere to Semantic Versioning. The version format is RVER, eg, B1 for Beta 1, R12 for Release 12
 
+## [B3] - 2025-6-29
+
+### Added
+ - Added several models for compatibility
+
 ## [B2] - 2023-3-8
 
 ### Added
