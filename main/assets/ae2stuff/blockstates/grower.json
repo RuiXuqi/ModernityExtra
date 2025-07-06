@@ -7,7 +7,9 @@
 		"active": {
 			"true": {
 				"textures": {
-					"side": "ae2stuff:blocks/grower/side_on"
+					"top": "ae2stuff:blocks/grower/top_on",
+					"side": "ae2stuff:blocks/grower/side_on",
+					"bottom": "ae2stuff:blocks/grower/bottom_on"
 				}
 			},
 			"false": {}
