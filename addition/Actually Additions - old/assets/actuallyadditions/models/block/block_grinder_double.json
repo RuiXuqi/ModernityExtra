@@ -5,10 +5,10 @@
 		"base": "actuallyadditions:blocks/base_texture",
 		"top": "actuallyadditions:blocks/block_heat_collector_top",
 		"back": "actuallyadditions:blocks/block_farmer_side",
-		"top_animation": "actuallyadditions:blocks/block_miner_rotation_animation",
+		"top_animation": "actuallyadditions:blocks/block_miner_rotation",
 		"side": "actuallyadditions:blocks/block_grinder_side",
 		"front": "actuallyadditions:blocks/block_grinder_double",
-		"side_animation": "actuallyadditions:blocks/block_grinder_double_rotation_animation"
+		"side_animation": "actuallyadditions:blocks/block_grinder_double_rotation"
 	},
 	"elements": [
 		{

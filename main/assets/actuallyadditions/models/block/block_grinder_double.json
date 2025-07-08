@@ -7,7 +7,7 @@
 		"particle": "actuallyadditions:blocks/crusher_front_double",
 		"front": "actuallyadditions:blocks/crusher_front_double",
 		"side": "actuallyadditions:blocks/base_texture_large",
-		"side_animation": "actuallyadditions:blocks/crusher_rotation_animation"
+		"side_animation": "actuallyadditions:blocks/crusher_rotation"
 	},
 	"elements": [
 		{

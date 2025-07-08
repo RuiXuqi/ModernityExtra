@@ -7,7 +7,10 @@
     "normal": [{}],
     "inventory": [{}],
     "on": {
-      "true": { "textures": {} },
+      "true": { "textures": {
+        "top_animation": "actuallyadditions:blocks/block_miner_rotation_animation",
+        "side_animation": "actuallyadditions:blocks/block_grinder_rotation_animation"
+      } },
       "false": {}
     }
   }
