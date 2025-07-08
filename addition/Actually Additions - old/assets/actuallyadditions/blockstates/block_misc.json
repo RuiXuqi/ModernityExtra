@@ -1,0 +1,23 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "minecraft:cube_all",
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "type": {
+      "black_quartz_pillar": { "model" : "actuallyadditions:block_black_quartz_pillar" },
+      "black_quartz_chiseled": { "model" : "actuallyadditions:block_black_quartz_chiseled" },
+      "black_quartz": { "model" : "actuallyadditions:block_black_quartz" },
+      "ore_black_quartz": { "textures" : { "all" : "actuallyadditions:blocks/block_misc_ore_black_quartz" } },
+      "wood_casing": { "textures" : { "all" : "actuallyadditions:blocks/block_misc_wood_casing" } },
+      "charcoal": { "textures" : { "all" : "actuallyadditions:blocks/block_misc_charcoal" } },
+      "enderpearl": { "textures" : { "all" : "actuallyadditions:blocks/block_misc_enderpearl" } },
+      "lava_factory_case": { "model" : "actuallyadditions:block_lava_factory_case" },
+      "ender_casing": { "textures" : { "all" : "actuallyadditions:blocks/block_misc_ender_casing" } },
+      "iron_casing": { "textures" : { "all" : "actuallyadditions:blocks/block_misc_iron_casing" } }
+    }
+  }
+}

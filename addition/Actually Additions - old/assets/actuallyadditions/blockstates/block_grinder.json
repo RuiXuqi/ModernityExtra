@@ -1,0 +1,17 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "actuallyadditions:block_grinder"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "on": {
+      "true": { "textures": {
+        "top_animation": "actuallyadditions:blocks/block_miner_rotation_animation",
+        "side_animation": "actuallyadditions:blocks/block_grinder_rotation_animation"
+      } },
+      "false": {}
+    }
+  }
+}

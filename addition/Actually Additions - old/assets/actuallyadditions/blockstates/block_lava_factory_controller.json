@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "actuallyadditions:block_lava_factory_controller"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

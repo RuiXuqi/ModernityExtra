@@ -7,7 +7,7 @@
     "normal": [{}],
     "inventory": [{}],
     "on": {
-      "true": { "textures": {} },
+      "true": { "textures": { "side_animation": "actuallyadditions:blocks/crusher_rotation_animation" } },
       "false": {}
     }
   }

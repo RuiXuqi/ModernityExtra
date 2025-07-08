@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "actuallyadditions:block_firework_box"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

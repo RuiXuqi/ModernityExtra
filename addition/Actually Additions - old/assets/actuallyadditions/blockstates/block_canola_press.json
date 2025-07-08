@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "actuallyadditions:block_canola_press"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}
