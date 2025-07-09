@@ -1,8 +1,7 @@
 {
   "forge_marker": 1,
   "defaults": {
-    "model": "actuallyadditions:block_coffee_machine",
-    "transform": "forge:default-block"
+    "model": "actuallyadditions:block_coffee_machine"
   },
   "variants": {
     "normal": [{}],

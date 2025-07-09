@@ -1,1 +1,1 @@
-AdditionVersion:1.1
+AdditionVersion:1.2
