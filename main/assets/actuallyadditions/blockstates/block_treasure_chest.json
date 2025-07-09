@@ -3,8 +3,8 @@
   "defaults": {
     "model": "minecraft:cube_column",
     "textures": {
-      "side": "actuallyadditions:blocks/block_treasure_chest",
-      "end": "actuallyadditions:blocks/block_treasure_chest_top"
+      "side": "actuallyadditions:blocks/treasure_chest",
+      "end": "actuallyadditions:blocks/treasure_chest_top"
     }
   },
   "variants": {

@@ -1,0 +1,16 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "minecraft:cross",
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "type": {
+      "canola": { "textures" : { "cross" : "actuallyadditions:blocks/block_canola_stage_4" } },
+      "flax": { "textures" : { "cross" : "actuallyadditions:blocks/block_flax_stage_4" } },
+      "rice": { "textures" : { "cross" : "actuallyadditions:blocks/block_rice_stage_4" } },
+      "coffee": { "textures" : { "cross" : "actuallyadditions:blocks/block_coffee_stage_4" } }
+    }
+  }
+}
