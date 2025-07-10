@@ -1,8 +1,7 @@
 {
   "forge_marker": 1,
   "defaults": {
-    "model": "actuallyadditions:block_furnace_solar",
-    "transform": "forge:default-block"
+    "model": "actuallyadditions:block_furnace_solar"
   },
   "variants": {
     "normal": [{}],
