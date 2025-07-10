@@ -125,11 +125,11 @@
 			}
 		},
 		{
-			"from": [4, 2, 0],
+			"from": [4, 5, 0],
 			"to": [5, 6, 0],
-			"rotation": {"angle": 0, "axis": "y", "origin": [6, 2, 0]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 5, 0]},
 			"faces": {
-				"north": {"uv": [15, 12, 16, 16], "texture": "#side"}
+				"north": {"uv": [15, 12, 16, 13], "texture": "#side"}
 			}
 		},
 		{
