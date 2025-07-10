@@ -1,0 +1,13 @@
+{
+      "forge_marker": 1,
+      "defaults": {
+            "model": "mekanism:dynamic_valve_input"
+      },
+      "variants": {
+            "normal": [{}],
+            "active": {
+                  "true": { "model": "mekanism:dynamic_valve_output" },
+                  "false": {}},
+            "inventory": [{}]
+      }
+}

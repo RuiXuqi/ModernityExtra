@@ -1,0 +1,7 @@
+{
+    "parent": "mekanism:block/template/cube_all_led",
+    "textures": {
+        "all": "mekanism:blocks/boiler_valve_output_steam",
+        "led": "mekanism:blocks/boiler_valve_output_steam_led"
+    }
+}

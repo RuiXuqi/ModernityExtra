@@ -1,0 +1,13 @@
+{
+      "forge_marker": 1,
+      "defaults": {
+            "model": "mekanism:boiler_valve_input"
+      },
+      "variants": {
+            "normal": [{}],
+            "active": {
+                  "true": { "model": "mekanism:boiler_valve_output_steam" },
+                  "false": {}},
+            "inventory": [{}]
+      }
+}

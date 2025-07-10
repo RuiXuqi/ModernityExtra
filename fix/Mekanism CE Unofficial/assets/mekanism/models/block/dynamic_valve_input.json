@@ -1,0 +1,7 @@
+{
+    "parent": "mekanism:block/template/cube_all_led",
+    "textures": {
+        "all": "mekanism:blocks/dynamic_valve_input",
+        "led": "mekanism:blocks/dynamic_valve_input_led"
+    }
+}
