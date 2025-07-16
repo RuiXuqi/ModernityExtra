@@ -1,7 +1,6 @@
 {
 	"credit": "Blockbench Model - Do you want a textured model? Contact me on Discord: CesarZorak#0808",
 	"parent": "block/block",
-	"ambientocclusion": false,
 	"textures": {
 		"0": "forbidden_arcanus:blocks/arcane_dragon_egg_side",
 		"1": "forbidden_arcanus:blocks/arcane_dragon_egg_top",

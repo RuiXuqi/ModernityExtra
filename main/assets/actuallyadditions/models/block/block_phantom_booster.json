@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"ambientocclusion": false,
 	"textures": {
 		"particle": "actuallyadditions:blocks/models/model_phantom_booster",
 		"base": "actuallyadditions:blocks/models/model_phantom_booster"

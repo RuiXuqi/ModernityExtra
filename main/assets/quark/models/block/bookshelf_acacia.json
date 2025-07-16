@@ -1,7 +1,6 @@
 {
 	"credit": "Made by Cr_L with Blockbench",
 	"parent": "block/block",
-	"ambientocclusion": false,
 	"textures": {
 		"particle": "quark:blocks/bookshelf_acacia",
 		"side": "quark:blocks/bookshelf_acacia",

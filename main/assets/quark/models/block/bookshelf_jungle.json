@@ -1,7 +1,6 @@
 {
 	"credit": "Made by Cr_L with Blockbench",
 	"parent": "block/block",
-	"ambientocclusion": false,
 	"textures": {
 		"end": "blocks/planks_jungle",
 		"side": "quark:blocks/bookshelf_jungle",

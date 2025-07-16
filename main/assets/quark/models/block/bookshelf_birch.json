@@ -1,7 +1,6 @@
 {
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
-	"ambientocclusion": false,
 	"textures": {
 		"particle": "quark:blocks/bookshelf_birch",
 		"side": "quark:blocks/bookshelf_birch",
