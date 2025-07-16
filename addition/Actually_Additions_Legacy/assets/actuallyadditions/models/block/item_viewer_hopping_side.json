@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"ambientocclusion": false,
 	"textures": {
 		"inside": "actuallyadditions:blocks/block_item_viewer_hopping_top",
 		"particle": "actuallyadditions:blocks/base_texture",

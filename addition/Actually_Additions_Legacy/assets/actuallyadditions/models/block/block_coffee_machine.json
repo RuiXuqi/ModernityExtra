@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"ambientocclusion": false,
 	"textures": {
 		"particle": "actuallyadditions:blocks/models/model_coffee_machine",
 		"coffee_machine": "actuallyadditions:blocks/models/model_coffee_machine"
