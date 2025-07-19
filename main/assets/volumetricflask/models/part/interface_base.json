@@ -1,0 +1,10 @@
+{
+  "parent": "appliedenergistics2:part/interface_base",
+  "textures": {
+    "sides": "volumetricflask:parts/interface_sides",
+    "sidesStatus": "appliedenergistics2:parts/monitor_sides_status",
+    "particle": "volumetricflask:parts/interface_back",
+    "back": "volumetricflask:parts/interface_back",
+    "front": "volumetricflask:items/part/interface"
+  }
+}
