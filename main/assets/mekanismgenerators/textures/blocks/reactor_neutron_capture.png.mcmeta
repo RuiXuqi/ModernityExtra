@@ -1,0 +1,10 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"TRANSLUCENT",
+        "textures":[
+            "mekanismgenerators:ctm/reactor_neutron_capture"
+        ]
+    }
+}
