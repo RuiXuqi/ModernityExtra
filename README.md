@@ -2,49 +2,40 @@
 
 # About
 
-As its name suggests, it is a faux Jappa (i.e. 1.14+ new materials) texture pack that requires [Modernity](https://modrinth.com/resourcepack/modernity) as a front.
+This pack is intended to supplement the [ModernityAdjunct resource pack](https://www.curseforge.com/minecraft/texture-packs/modernity-adjunct) with more mod resources, which means you need to load at least three packs.
 
-Another classic texture pack is built in [Jappafied Modded](https://www.curseforge.com/minecraft/texture-packs/jappafied-modded), which has strong mod compatibility and supports most major mods.
+Most of the resources in the pack are not created by us but backported from modern versions, so if you want to use them in other projects, you'd better check the original mod's license first. There are also some resources created by us, which follow MIT license.
 
-Maybe you still don't understand what we are doing? Then let's take an example(see Gallery).
+There is not a release plan on CurseForge or Modrinth because of the countless license problems.
 
-You can also read the wiki, he certainly speaks better than I do.
-
-The original textures were created by Modernity, this resource pack is a Mod extension to Modernity.
-Of course this material is not just the simplest ingots ported, but tries to replicate the high version exactly.
-
-Remember to put the pack mapping as priority above Modernity.
-
-Proof that I have the permission to include Jappafied Modded in my resource pack.
-![QQ截图20221229094231](https://user-images.githubusercontent.com/103164772/209892667-e95d81b3-0a4a-4bbf-827e-bf3662af480b.png)
-
-Most of the texture are not mine, so you will need to check up the changelog from the last updates to know the owner and credit him/her. The texture I drew is MIT License, you can use them just like you want.
+If you find any bugs or want to ask us for more mods support, see the issues page. PRs are welcome too.
 
 # Other Resource Packs of Jappa textures
-
-[Modern Pyrotech](https://www.curseforge.com/minecraft/texture-packs/modern-pyrotech)
-
-[Updated Engineering](https://www.curseforge.com/minecraft/texture-packs/updated-engineering)
-
-[Techguns Re:](https://modrinth.com/resourcepack/techguns-re)
-
-[Refined Storage Jappafied](https://modrinth.com/resourcepack/refined-storage-jappafied)
-
-[Jappafied Betweenlands](https://www.curseforge.com/minecraft/texture-packs/jappafied-betweenlands)
-
-[Luck Remastered](https://modrinth.com/resourcepack/luckremastered)
+You may use them with ModernityExtra for more support.
 
 [Corail Tombstones Redux](https://www.curseforge.com/minecraft/texture-packs/tombstones-redux)
 
+[Jappafied Betweenlands](https://www.curseforge.com/minecraft/texture-packs/jappafied-betweenlands)
+
+[Modern Pyrotech](https://www.curseforge.com/minecraft/texture-packs/modern-pyrotech)
+
+[Refined Storage Jappafied](https://modrinth.com/resourcepack/refined-storage-jappafied)
+
+[Techguns Re:](https://modrinth.com/resourcepack/techguns-re)
+
+[Updated Engineering](https://www.curseforge.com/minecraft/texture-packs/updated-engineering)
+
+
+[Luck Remastered](https://modrinth.com/resourcepack/luckremastered)
+
 # Modpack Support
-You may find some modpack custom items and textures get retextured.
+You may find some modpack custom blocks and items get retextured.
 
 [FTB Presents Stoneblock 2](https://www.curseforge.com/minecraft/modpacks/ftb-presents-stoneblock-2)
 
 [Magiculture 2](https://www.curseforge.com/minecraft/modpacks/magiculture-2)
 
 [Nova Engineering - World](https://www.mcmod.cn/modpack/784.html)
-
 
 # Mod Support
 
