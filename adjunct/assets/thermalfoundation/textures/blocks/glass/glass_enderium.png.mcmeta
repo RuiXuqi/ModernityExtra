@@ -1,0 +1,9 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "textures":[
+            "thermalfoundation:blocks/glass/glass_enderium_ctm"
+        ]
+    }
+}

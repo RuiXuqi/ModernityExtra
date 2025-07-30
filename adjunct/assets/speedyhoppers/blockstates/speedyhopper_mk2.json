@@ -1,0 +1,36 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "speedyhoppers:hopper_down_mk2"
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {"model": "speedyhoppers:speedyhopper_mk2"}
+    ],
+    "facing": {
+      "down": {},
+      "north": {
+        "model": "speedyhoppers:hopper_side_mk2"
+      },
+      "south": {
+        "y": 180,
+        "model": "speedyhoppers:hopper_side_mk2"
+      },
+      "east": {
+        "y": 90,
+        "model": "speedyhoppers:hopper_side_mk2"
+      },
+      "west": {
+        "y": 270,
+        "model": "speedyhoppers:hopper_side_mk2"
+      }
+    },
+    "enabled": {
+      "true": {},
+      "false": {}
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+     "model": "cube_all",
+     "textures": { "all": "twilightforest:blocks/boss_spawner" }
+  },
+  "variants": { "normal": [{}] }
+}
