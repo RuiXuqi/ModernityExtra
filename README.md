@@ -17,6 +17,8 @@ You may use them with ModernityExtra for more support.
 
 [Jappafied Betweenlands](https://www.curseforge.com/minecraft/texture-packs/jappafied-betweenlands)
 
+[Luck Remastered](https://modrinth.com/resourcepack/luckremastered)
+
 [Modern Pyrotech](https://www.curseforge.com/minecraft/texture-packs/modern-pyrotech)
 
 [Refined Storage Jappafied](https://modrinth.com/resourcepack/refined-storage-jappafied)
@@ -25,8 +27,7 @@ You may use them with ModernityExtra for more support.
 
 [Updated Engineering](https://www.curseforge.com/minecraft/texture-packs/updated-engineering)
 
-
-[Luck Remastered](https://modrinth.com/resourcepack/luckremastered)
+[Vibrant Aura](https://www.curseforge.com/minecraft/texture-packs/vibrant-aura)
 
 # Modpack Support
 You may find some modpack custom blocks and items get retextured.
