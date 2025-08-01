@@ -15,7 +15,7 @@ You may use them with ModernityExtra for more support.
 
 [Corail Tombstones Redux](https://www.curseforge.com/minecraft/texture-packs/tombstones-redux)
 
-[Jappafied Betweenlands](https://www.curseforge.com/minecraft/texture-packs/jappafied-betweenlands)
+[Jappafied Betweenlands](https://www.curseforge.com/minecraft/texture-packs/jappafied-betweenlands) **NOTE: Include Vanilla Minecraft assets**
 
 [Luck Remastered](https://modrinth.com/resourcepack/luckremastered)
 
@@ -25,7 +25,7 @@ You may use them with ModernityExtra for more support.
 
 [Techguns Re:](https://modrinth.com/resourcepack/techguns-re)
 
-[Updated Engineering](https://www.curseforge.com/minecraft/texture-packs/updated-engineering)
+[Updated Engineering](https://www.curseforge.com/minecraft/texture-packs/updated-engineering) **NOTE: Change Vanilla Iron Nugget texture**
 
 [Vibrant Aura](https://www.curseforge.com/minecraft/texture-packs/vibrant-aura)
 
