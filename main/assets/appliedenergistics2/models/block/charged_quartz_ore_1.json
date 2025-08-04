@@ -1,4 +1,5 @@
 {
+  "ae2_uvl_marker": true,
   "parent": "block/block",
   "textures": {
     "block": "blocks/stone",
@@ -41,50 +42,50 @@
         "down": {
           "texture": "#quartz",
           "cullface": "down",
-                    "uvlightmap": {
-                        "block": 0.007,
-                        "sky": 0.007
-                    }
+          "uvlightmap": {
+              "block": 0.007,
+              "sky": 0.007
+          }
         },
         "east": {
           "texture": "#quartz",
           "cullface": "east",
-                    "uvlightmap": {
-                        "block": 0.007,
-                        "sky": 0.007
-                    }
+          "uvlightmap": {
+              "block": 0.007,
+              "sky": 0.007
+          }
         },
         "north": {
           "texture": "#quartz",
           "cullface": "north",
-                    "uvlightmap": {
-                        "block": 0.007,
-                        "sky": 0.007
-                    }
+          "uvlightmap": {
+              "block": 0.007,
+              "sky": 0.007
+          }
         },
         "south": {
           "texture": "#quartz",
           "cullface": "south",
-                    "uvlightmap": {
-                        "block": 0.007,
-                        "sky": 0.007
-                    }
+          "uvlightmap": {
+              "block": 0.007,
+              "sky": 0.007
+          }
         },
         "up": {
           "texture": "#quartz",
           "cullface": "up",
-                    "uvlightmap": {
-                        "block": 0.007,
-                        "sky": 0.007
-                    }
+          "uvlightmap": {
+              "block": 0.007,
+              "sky": 0.007
+          }
         },
         "west": {
           "texture": "#quartz",
           "cullface": "west",
-                    "uvlightmap": {
-                        "block": 0.007,
-                        "sky": 0.007
-                    }
+          "uvlightmap": {
+              "block": 0.007,
+              "sky": 0.007
+          }
         }
       },
       "from": [0, 0, 0],
