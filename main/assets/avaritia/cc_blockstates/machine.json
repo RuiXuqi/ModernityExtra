@@ -22,15 +22,12 @@
 					"front": "blocks/machine/compressor/front",
 					"side_left": "blocks/machine/compressor/side_left",
 					"side_right": "blocks/machine/compressor/side_right",
-					"top": "blocks/machine/compressor/top",
+					"top": "blocks/machine/compressor/top_2",
 					"frame": "blocks/machine/compressor/frame"
 				},
 				"variants": {
 					"active": {
 						"true": {
-							"textures": {
-								"front": "blocks/machine/compressor/active"
-							}
 						},
 						"false": {
 						}
