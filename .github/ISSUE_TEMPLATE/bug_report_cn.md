@@ -24,13 +24,13 @@ assignees: ''
 
 
 **截图**
-<!-- 如果适用，请提供相关截图辅助说明 -->
+<!-- 请提供相关截图辅助说明 -->
 
 
-**资源信息（我们不再支持旧版本的Modernity）**
- - Modernity版本: 
- - Modernity Adjunct版本: 
- - ModernityExtra版本（最新 release/dev）: 
+**资源信息**
+<!-- 请使用仓库内的修改版 Modernity Adjunct -->
+ - Modernity 版本: 
+ - ModernityExtra 版本（最新 release/dev）: 
  - 出现问题的模组及其版本: 
 
 **其他补充**

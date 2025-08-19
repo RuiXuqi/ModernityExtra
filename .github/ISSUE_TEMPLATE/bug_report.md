@@ -27,9 +27,9 @@ assignees: ''
 <!-- If applicable, add screenshots to help explain your problem. -->
 
 
-**Information (we won't support legacy versions of Modernity)**
+**Information**
+<!-- Please use the customized Modernity Adjunct in our repo -->
  - Modernity version: 
- - Modernity Adjunct version: 
  - ModernityExtra version (latest release/dev): 
  - Bugged mod and its version: 
 
