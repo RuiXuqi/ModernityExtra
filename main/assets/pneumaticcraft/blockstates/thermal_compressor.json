@@ -1,11 +1,10 @@
 {
-    "forge_marker": 1,
-    "defaults": {
-        "textures": {},
-        "model": "pneumaticcraft:thermal_compressor"
-    },
-	"variants": {
-		"normal": [{}],
-		"inventory": [{}]
-	}
+  "forge_marker": 1,
+  "defaults": {
+    "model": "pneumaticcraft:thermal_compressor"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
 }

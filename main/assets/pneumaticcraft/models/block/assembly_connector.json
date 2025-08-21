@@ -1,0 +1,79 @@
+{
+  "textures": {
+    "pipe": "pneumaticcraft:pnc_model/pressure_tube"
+  },
+  "elements": [
+    {
+      "from": [ 6, 1, 7 ],
+      "to": [ 7, 9, 9 ],
+      "faces": {
+        "north": { "texture": "#pipe" },
+        "south": { "texture": "#pipe" },
+        "down": { "texture": "#pipe" },
+        "up": { "texture": "#pipe" },
+        "east": { "texture": "#pipe" },
+        "west": { "texture": "#pipe" }
+      }
+    },
+    {
+      "from": [ 9, 1, 7 ],
+      "to": [ 10, 9, 9 ],
+      "faces": {
+        "north": { "texture": "#pipe" },
+        "south": { "texture": "#pipe" },
+        "down": { "texture": "#pipe" },
+        "up": { "texture": "#pipe" },
+        "east": { "texture": "#pipe" },
+        "west": { "texture": "#pipe" }
+      }
+    },
+    {
+      "from": [ 7, 1, 6 ],
+      "to": [ 9, 9, 7 ],
+      "faces": {
+        "north": { "texture": "#pipe" },
+        "south": { "texture": "#pipe" },
+        "down": { "texture": "#pipe" },
+        "up": { "texture": "#pipe" },
+        "east": { "texture": "#pipe" },
+        "west": { "texture": "#pipe" }
+      }
+    },
+    {
+      "from": [ 7, 1, 9 ],
+      "to": [ 9, 8, 10 ],
+      "faces": {
+        "north": { "texture": "#pipe" },
+        "south": { "texture": "#pipe" },
+        "down": { "texture": "#pipe" },
+        "up": { "texture": "#pipe" },
+        "east": { "texture": "#pipe" },
+        "west": { "texture": "#pipe" }
+      }
+    },
+    {
+      "from": [ 7, 8, 7 ],
+      "to": [ 9, 10, 10 ],
+      "faces": {
+        "north": { "texture": "#pipe" },
+        "south": { "texture": "#pipe" },
+        "down": { "texture": "#pipe" },
+        "up": { "texture": "#pipe" },
+        "east": { "texture": "#pipe" },
+        "west": { "texture": "#pipe" }
+      }
+    },
+    {
+      "from": [ 6, 7, 9 ],
+      "to": [ 10, 9, 10 ],
+      "faces": {
+        "north": { "texture": "#pipe" },
+        "south": { "texture": "#pipe" },
+        "down": { "texture": "#pipe" },
+        "up": { "texture": "#pipe" },
+        "east": { "texture": "#pipe" },
+        "west": { "texture": "#pipe" }
+      }
+    }
+  ]
+}

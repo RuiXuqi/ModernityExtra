@@ -2,8 +2,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "pneumaticcraft:model/elevator_base"
+		"1": "pneumaticcraft:pnc_model/elevator_base",
+		"particle": "pneumaticcraft:pnc_model/elevator_base"
 	},
+	"render_type": "cutout",
 	"elements": [
 		{
 			"from": [1, 0, 1],
@@ -17,5 +19,6 @@
 				"down": {"uv": [7, 11, 8, 12], "texture": "#1", "cullface": "down"}
 			}
 		}
-	]
+	],
+	"display": {}
 }

@@ -1,6 +1,10 @@
 {
 	"forge_marker": 1,
-	"defaults": {},
+	"defaults": {
+		"textures": {
+			"particle": "pneumaticcraft:pnc_model/pressure_tube"
+		}
+	},
 	"variants": {
 		"normal": [{}],
 		"inventory": [{"model": "pneumaticcraft:pressure_tube_inv"}],
@@ -21,11 +25,11 @@
 		},
 		"south": {
 			"open":{"submodel":{"south":{"model":"pneumaticcraft:pressure_tube_disconnected","x":90,"y":180}}},
-			"connected":{"submodel":{"south":{"model":"pneumaticcraft:pressure_tube_connected","x":90,"y": 180}}},
+			"connected":{"submodel":{"south":{"model":"pneumaticcraft:pressure_tube_connected","x":90,"y":180}}},
 			"closed":{"submodel":{"south":{"model":"pneumaticcraft:pressure_tube_closed","x": 90,"y":180}}}
 		},
 		"west": {
-			"open":{"submodel":{"west":{"model":"pneumaticcraft:pressure_tube_disconnected","x":90,"y":270 }}},
+			"open":{"submodel":{"west":{"model":"pneumaticcraft:pressure_tube_disconnected","x":90,"y":270}}},
 			"connected":{"submodel":{"west":{"model":"pneumaticcraft:pressure_tube_connected","x":90,"y":270}}},
 			"closed":{"submodel":{"west":{"model":"pneumaticcraft:pressure_tube_closed","x":90,"y":270}}}
 		},

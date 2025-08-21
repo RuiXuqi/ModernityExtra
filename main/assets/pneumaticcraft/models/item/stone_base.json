@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "pneumaticcraft:model/air_cannon",
-		"particle": "pneumaticcraft:model/air_cannon"
+		"0": "pneumaticcraft:pnc_model/air_cannon",
+		"particle": "pneumaticcraft:pnc_model/air_cannon"
 	},
 	"elements": [
 		{
@@ -23,7 +23,6 @@
 			"name": "baseFrame1",
 			"from": [10.5, 1, 6.5],
 			"to": [11.5, 6, 9.5],
-			"shade": false,
 			"faces": {
 				"north": {"uv": [8, 0.75, 7.75, 2], "texture": "#0"},
 				"east": {"uv": [8.75, 0.75, 8, 2], "texture": "#0"},
@@ -37,7 +36,6 @@
 			"name": "baseFrame2",
 			"from": [4.5, 1, 6.5],
 			"to": [5.5, 6, 9.5],
-			"shade": false,
 			"faces": {
 				"north": {"uv": [10, 0.75, 9.75, 2], "texture": "#0"},
 				"east": {"uv": [10.75, 0.75, 10, 2], "texture": "#0"},
@@ -51,7 +49,6 @@
 			"name": "axis",
 			"from": [4.2, 3.7, 7.2],
 			"to": [11.8, 5.3, 8.8],
-			"shade": false,
 			"faces": {
 				"north": {"uv": [13.5, 1.5, 11.5, 2], "texture": "#0"},
 				"east": {"uv": [14, 1.5, 13.5, 2], "texture": "#0"},

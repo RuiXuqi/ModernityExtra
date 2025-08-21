@@ -1,32 +1,50 @@
 {
-    "forge_marker": 1,
-    "defaults": {
-        "textures": {},
-		"custom": {},
-        "model": "pneumaticcraft:gas_lift"
+  "forge_marker": 1,
+  "defaults": {
+    "model": "pneumaticcraft:gas_lift"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "up": {
+      "false": {},
+      "true": {
+        "submodel": {
+          "up": {"model": "pneumaticcraft:pressure_tube_connected"}
+        }
+      }
     },
-	"variants": {
-		"normal": [{}],
-		"inventory": [{}],
-		"up": {
-			"false": {},
-			"true": {"submodel":{"up":{"model":"pneumaticcraft:pressure_tube_connected"}}}
-		},
-		"north": {
-			"false": {},
-			"true": {}
-		},
-		"south": {
-			"false": {},
-			"true": {}
-		},
-		"west": {
-			"false": {},
-			"true": {}
-		},
-		"east": {
-			"false": {},
-			"true": {}
-		}
-	}
+    "north": {
+      "false": {},
+      "true": {
+        "submodel": {
+          "north": {"model": "pneumaticcraft:pressure_tube_connected", "x": 90}
+        }
+      }
+    },
+    "south": {
+      "false": {},
+      "true": {
+        "submodel": {
+          "south": {"model": "pneumaticcraft:pressure_tube_connected", "x": 90, "y": 180}
+        }
+      }
+    },
+    "west": {
+      "false": {},
+      "true": {
+        "submodel": {
+          "west": {"model": "pneumaticcraft:pressure_tube_connected", "x": 90, "y": 270}
+        }
+      }
+    },
+    "east": {
+      "false": {},
+      "true": {
+        "submodel": {
+          "east": {"model": "pneumaticcraft:pressure_tube_connected", "x": 90, "y": 90}
+        }
+      }
+    }
+  }
 }

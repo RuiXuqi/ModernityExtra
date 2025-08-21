@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"pipeplug": "pneumaticcraft:blocks/tube_closed",
-		"particle": "pneumaticcraft:blocks/pressure_tube"
+		"pipeplug": "pneumaticcraft:pnc_model/tube_closed"
 	},
+	"render_type": "solid",
 	"elements": [
 		{
 			"from": [7, 9.997, 7],

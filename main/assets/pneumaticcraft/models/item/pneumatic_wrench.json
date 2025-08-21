@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"base": "pneumaticcraft:items/pneumatic_wrench"
+		"base": "pneumaticcraft:items/model/pneumatic_wrench"
 	},
 	"elements": [
 		{

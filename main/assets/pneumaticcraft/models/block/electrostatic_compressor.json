@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "forge:block/default",
+	"parent": "block/block",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "pneumaticcraft:model/electrostatic_compressor",
-		"particle": "pneumaticcraft:model/electrostatic_compressor"
+		"0": "pneumaticcraft:pnc_model/electrostatic_compressor",
+		"particle": "pneumaticcraft:pnc_model/electrostatic_compressor"
 	},
 	"elements": [
 		{

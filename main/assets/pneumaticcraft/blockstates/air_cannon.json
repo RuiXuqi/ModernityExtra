@@ -1,0 +1,46 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "pneumaticcraft:air_cannon_base",
+    "textures": {
+      "particle": "pneumaticcraft:blocks/compressed_iron_block"
+    }
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{"model": "pneumaticcraft:air_cannon_inv"}],
+    "facing": {
+      "east": {
+        "submodel": {
+          "connector": {
+            "model": "pneumaticcraft:assembly_connector_edge"
+          }
+        }
+      },
+      "north": {
+        "y": 270,
+        "submodel": {
+          "connector": {
+            "model": "pneumaticcraft:assembly_connector_edge"
+          }
+        }
+      },
+      "west": {
+        "y": 180,
+        "submodel": {
+          "connector": {
+            "model": "pneumaticcraft:assembly_connector_edge"
+          }
+        }
+      },
+      "south": {
+        "y": 90,
+        "submodel": {
+          "connector": {
+            "model": "pneumaticcraft:assembly_connector_edge"
+          }
+        }
+      }
+    }
+  }
+}

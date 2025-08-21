@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "pneumaticcraft:sentry_turret"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{"model": "pneumaticcraft:sentry_turret_inv"}]
+  }
+}

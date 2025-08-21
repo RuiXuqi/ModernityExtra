@@ -1,0 +1,56 @@
+  {
+  "forge_marker": 1,
+  "defaults": {
+    "model": "pneumaticcraft:kerosene_lamp"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "facing": {
+      "up": {},
+      "down": {},
+      "north": {"y": 180},
+      "south": {},
+      "east": {"y": 270},
+      "west": {"y": 90}
+    },
+    "connected": {
+      "down": {},
+      "up": {
+        "submodel": {
+          "vert": {
+            "model": "pneumaticcraft:kerosene_lamp_support_v"
+          }
+        }
+      },
+      "north": {
+        "submodel": {
+          "horiz": {
+            "model": "pneumaticcraft:kerosene_lamp_support_h"
+          }
+        }
+      },
+      "south": {
+        "submodel": {
+          "horiz": {
+            "model": "pneumaticcraft:kerosene_lamp_support_h"
+          }
+        }
+      },
+      "east": {
+        "submodel": {
+          "horiz": {
+            "model": "pneumaticcraft:kerosene_lamp_support_h"
+          }
+        }
+      },
+      "west": {
+        "submodel": {
+          "horiz": {
+            "model": "pneumaticcraft:kerosene_lamp_support_h"
+          }
+        }
+      }
+    }
+  }
+}
