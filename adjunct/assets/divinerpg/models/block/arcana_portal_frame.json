@@ -1,0 +1,23 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "particle": "divinerpg:blocks/arcana_portal_frame_top",
+    "top": "divinerpg:blocks/arcana_portal_frame_top",
+    "side": "divinerpg:blocks/arcana_portal_frame_side",
+    "outer": "divinerpg:blocks/arcana_portal_frame_outer"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 13, 16],
+      "faces": {
+        "east": {"uv": [0, 3, 16, 16], "cullface": "east", "texture": "#side"},
+        "south": {"uv": [0, 3, 16, 16], "cullface": "south", "texture": "#side"},
+        "north": {"uv": [0, 3, 16, 16], "cullface": "north", "texture": "#outer"},
+        "west": {"uv": [0, 3, 16, 16], "cullface": "west", "texture": "#side"},
+        "up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+        "down": {"uv": [0, 0, 16, 16], "cullface": "down", "texture": "#top"}
+      }
+    }
+  ]
+}

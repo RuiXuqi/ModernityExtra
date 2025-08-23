@@ -1,0 +1,76 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "divinerpg:items/aquatic_trident"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [
+				-80,
+				260,
+				-40
+			],
+			"translation": [
+				-1,
+				6.5,
+				2.5
+			],
+			"scale": [
+				1.4,
+				1.4,
+				0.85
+			]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [
+				-80,
+				-280,
+				40
+			],
+			"translation": [
+				-3,
+				6.5,
+				2.5
+			],
+			"scale": [
+				1.4,
+				1.4,
+				0.85
+			]
+		},
+		"firstperson_righthand": {
+			"rotation": [
+				0,
+				-90,
+				25
+			],
+			"translation": [
+				1.13,
+				6.0,
+				1.10
+			],
+			"scale": [
+				1.13,
+				1.13,
+				0.63
+			]
+		},
+		"firstperson_lefthand": {
+			"rotation": [
+				0,
+				90,
+				-25
+			],
+			"translation": [
+				1.13,
+				6.0,
+				1.13
+			],
+			"scale": [
+				1.13,
+				1.13,
+				0.63
+			]
+		}
+	}
+}
