@@ -2,6 +2,7 @@
 	"parent": "actuallyadditions:block/block_inputter",
 	"textures": {
 		"side": "actuallyadditions:blocks/advanced_esd_side",
-		"top": "actuallyadditions:blocks/advanced_esd_top"
+		"top": "actuallyadditions:blocks/advanced_esd_top",
+		"particle": "actuallyadditions:blocks/advanced_esd_side"
 	}
 }

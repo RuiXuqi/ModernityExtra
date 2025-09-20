@@ -4,7 +4,7 @@
 		"base": "actuallyadditions:blocks/base_texture",
 		"side": "actuallyadditions:blocks/esd_side",
 		"top": "actuallyadditions:blocks/esd_top",
-		"particle": "#side"
+		"particle": "actuallyadditions:blocks/esd_side"
 	},
 	"elements": [
 		{
