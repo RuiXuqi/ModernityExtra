@@ -1,0 +1,9 @@
+{
+  "parent": "appliedenergistics2:item/part/display",
+  "textures": {
+    "front": "appliedenergistics2:items/part/terminal",
+    "front_bright": "cellterminal:items/cell_terminal_bright",
+    "front_medium": "cellterminal:items/cell_terminal_medium",
+    "front_dark": "cellterminal:items/cell_terminal_dark"
+  }
+}

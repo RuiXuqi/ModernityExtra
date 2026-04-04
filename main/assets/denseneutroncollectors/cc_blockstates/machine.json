@@ -27,10 +27,8 @@
 				},
 				"variants": {
 					"active": {
-						"true": {
-						},
-						"false": {
-						}
+						"true": {},
+						"false": {}
 					}
 				}
 			},
@@ -44,10 +42,8 @@
 				},
 				"variants": {
 					"active": {
-						"true": {
-						},
-						"false": {
-						}
+						"true": {},
+						"false": {}
 					}
 				}
 			},
@@ -61,26 +57,17 @@
 				},
 				"variants": {
 					"active": {
-						"true": {
-						},
-						"false": {
-						}
+						"true": {},
+						"false": {}
 					}
 				}
 			}
 		},
 		"facing": {
-			"north": {
-			},
-			"south": {
-				"y": 180
-			},
-			"west": {
-				"y": 270
-			},
-			"east": {
-				"y": 90
-			}
+			"north": { "y": 180 },
+			"south": {},
+			"west": { "y": 90 },
+			"east": { "y": 270 }
 		}
 	}
 }
