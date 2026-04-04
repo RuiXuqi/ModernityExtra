@@ -11,9 +11,7 @@
       "from": [2, 2, 7],
       "to": [14, 14, 9],
       "faces": {
-        "north": {
-          "texture": "#type"
-        }
+        "north": { "texture": "#type" }
       }
     },
     {

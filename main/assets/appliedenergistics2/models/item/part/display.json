@@ -38,11 +38,7 @@
       "from": [2, 2, 7],
       "to": [14, 14, 8],
       "faces": {
-        "north": {
-          "uv": [2, 2, 14, 14],
-          "texture": "#front_bright",
-          "tintindex": 3
-        }
+        "north": { "uv": [2, 2, 14, 14], "texture": "#front_bright", "tintindex": 3 }
       }
     },
     {
@@ -50,11 +46,7 @@
       "from": [2, 2, 7],
       "to": [14, 14, 8],
       "faces": {
-        "north": {
-          "uv": [2, 2, 14, 14],
-          "texture": "#front_medium_bright",
-          "tintindex": 4
-        }
+        "north": { "uv": [2, 2, 14, 14], "texture": "#front_medium_bright", "tintindex": 4 }
       }
     },
     {
@@ -62,11 +54,7 @@
       "from": [2, 2, 7],
       "to": [14, 14, 8],
       "faces": {
-        "north": {
-          "uv": [2, 2, 14, 14],
-          "texture": "#front_medium",
-          "tintindex": 2
-        }
+        "north": { "uv": [2, 2, 14, 14], "texture": "#front_medium", "tintindex": 2 }
       }
     },
     {
@@ -74,11 +62,7 @@
       "from": [2, 2, 7],
       "to": [14, 14, 8],
       "faces": {
-        "north": {
-          "uv": [2, 2, 14, 14],
-          "texture": "#front_dark",
-          "tintindex": 1
-        }
+        "north": { "uv": [2, 2, 14, 14], "texture": "#front_dark", "tintindex": 1 }
       }
     },
     {
