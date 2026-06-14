@@ -4,7 +4,9 @@ import re
 
 def fold_simple_brace(match):
     """通用的将整个 {...} 块内部的换行和多余空格压缩为一个空格的函数"""
-    return re.sub(r'\s+', ' ', match.group(0))
+    single_line = re.sub(r'\s+', ' ', match.group(0))
+    # 将 "{ " 替换为 "{"，将 " }" 替换为 "}"
+    return single_line.replace('{ ', '{').replace(' }', '}')
 
 def process_blockstates(raw_json):
     """处理 blockstates 状态文件：折叠 variants 和 multipart 里的模型指向对象"""
@@ -24,7 +26,7 @@ def process_models(raw_json):
         key = match.group(1)     # 键名
         content = match.group(2) # {} 内部的内容
         clean_content = re.sub(r'\s+', ' ', content).strip()
-        return f'"{key}": {{ {clean_content} }}'
+        return f'"{key}": {{{clean_content}}}'
 
     target_keys = "north|south|east|west|up|down|rotation"
     pattern = rf'"({target_keys})"\s*:\s*\{{((?:[^{{}}]|\{{[^{{}}]*\}})*)\}}'
@@ -40,8 +42,8 @@ def format_json_file(filepath):
             print(f"解析错误跳过: {filepath}")
             return
 
-    # 1. 基础格式化（缩进为2个空格）
-    raw_json = json.dumps(data, indent=2, ensure_ascii=False)
+    # 1. 基础格式化（使用 Tab 缩进）
+    raw_json = json.dumps(data, indent='\t', ensure_ascii=False)
 
     # 2. 判断 json 文件类型并分发处理
     if "variants" in data or "multipart" in data:
