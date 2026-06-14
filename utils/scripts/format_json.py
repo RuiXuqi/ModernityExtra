@@ -6,11 +6,6 @@ def fold_simple_brace(match):
     """通用的将整个 {...} 块内部的换行和多余空格压缩为一个空格的函数"""
     return re.sub(r'\s+', ' ', match.group(0))
 
-def process_mcmeta(raw_json):
-    """处理 .mcmeta 动画文件：折叠 frames 里的对象"""
-    # 匹配形如 { "index": x, "time": y } 的对象块
-    return re.sub(r'\{\s*"index"\s*:\s*\d+[^}]*\}', fold_simple_brace, raw_json)
-
 def process_blockstates(raw_json):
     """处理 blockstates 状态文件：折叠 variants 和 multipart 里的模型指向对象"""
     # 匹配形如 { "model": "...", "weight": 1, "y": 90 } 的对象块
@@ -37,7 +32,7 @@ def process_models(raw_json):
     
     return raw_json
 
-def format_mc_file(filepath):
+def format_json_file(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         try:
             data = json.load(f)
@@ -48,11 +43,8 @@ def format_mc_file(filepath):
     # 1. 基础格式化（缩进为2个空格）
     raw_json = json.dumps(data, indent=2, ensure_ascii=False)
 
-    # 2. 判断文件类型并分发处理
-    if filepath.endswith('.mcmeta'):
-        file_type = 'mcmeta'
-        raw_json = process_mcmeta(raw_json)
-    elif "variants" in data or "multipart" in data:
+    # 2. 判断 json 文件类型并分发处理
+    if "variants" in data or "multipart" in data:
         file_type = 'blockstates'
         raw_json = process_blockstates(raw_json)
     else:
@@ -68,8 +60,8 @@ def format_mc_file(filepath):
     print(f"[{file_type.upper()}] 已格式化: {filepath}")
 
 if __name__ == "__main__":
-    # 遍历当前目录及所有子目录下的 .json 和 .mcmeta 文件
+    # 仅遍历当前目录及所有子目录下的 .json 文件
     for root, dirs, files in os.walk("."):
         for file in files:
-            if file.endswith((".json", ".mcmeta")):
-                format_mc_file(os.path.join(root, file))
+            if file.endswith(".json"):
+                format_json_file(os.path.join(root, file))
